@@ -18,7 +18,7 @@ stack having four parts:
 
 * A short review to the `Jupyter notebooks`_ web based interactive computational environment.
 
-* Oier Etxaniz introduction to `NumPy`_ (`tutorial material`_).
+* An introduction to `NumPy`_.
 
 * A very short practical introduction to `Matplotlib`_.
 
