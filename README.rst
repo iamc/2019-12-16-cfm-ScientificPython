@@ -18,7 +18,8 @@ stack having four parts:
 
 * A short review to the `Jupyter notebooks`_ web based interactive computational environment.
 
-* An introduction to `NumPy`_.
+* An introduction to `NumPy`_, based on Valentin Haenel's `SciPy 2013
+  Tutorial`_.
 
 * A very short practical introduction to `Matplotlib`_.
 
@@ -59,3 +60,4 @@ License`_.
 .. _`Jupyter notebooks`: http://ipython.org/notebook.html
 .. _`tutorial material`: https://github.com/PythonSanSebastian/numpy_euroscipy2015
 .. _`NumPy`: http://www.numpy.org/
+.. _`SciPy 2013 Tutorial`: https://github.com/esc/scipy2013-tutorial-numpy-ipython

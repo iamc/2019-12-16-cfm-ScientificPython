@@ -31,43 +31,46 @@ endobj
 << /A << /S /URI /Type /Action /URI (http://www.numpy.org/) >> /Border [ 0 0 0 ] /Rect [ 166.2929 542.0236 199.0729 554.0236 ] /Subtype /Link /Type /Annot >>
 endobj
 11 0 obj
-<< /A << /S /URI /Type /Action /URI (http://matplotlib.org/) >> /Border [ 0 0 0 ] /Rect [ 247.4229 524.0236 290.2129 536.0236 ] /Subtype /Link /Type /Annot >>
+<< /A << /S /URI /Type /Action /URI (https://github.com/esc/scipy2013-tutorial-numpy-ipython) >> /Border [ 0 0 0 ] /Rect [ 328.8329 542.0236 415.5329 554.0236 ] /Subtype /Link /Type /Annot >>
 endobj
 12 0 obj
-<< /A << /S /URI /Type /Action /URI (http://www.scipy.org/scipylib/index.html) >> /Border [ 0 0 0 ] /Rect [ 299.1429 506.0236 354.7029 518.0236 ] /Subtype /Link /Type /Annot >>
+<< /A << /S /URI /Type /Action /URI (http://matplotlib.org/) >> /Border [ 0 0 0 ] /Rect [ 247.4229 524.0236 290.2129 536.0236 ] /Subtype /Link /Type /Annot >>
 endobj
 13 0 obj
-<< /A << /S /URI /Type /Action /URI (https://www.continuum.io/downloads) >> /Border [ 0 0 0 ] /Rect [ 117.5186 479.0236 165.5014 491.0236 ] /Subtype /Link /Type /Annot >>
+<< /A << /S /URI /Type /Action /URI (http://www.scipy.org/scipylib/index.html) >> /Border [ 0 0 0 ] /Rect [ 299.1429 506.0236 354.7029 518.0236 ] /Subtype /Link /Type /Annot >>
 endobj
 14 0 obj
-<< /A << /S /URI /Type /Action /URI (http://creativecommons.org/licenses/by/4.0/) >> /Border [ 0 0 0 ] /Rect [ 194.4029 338.0236 439.5029 350.0236 ] /Subtype /Link /Type /Annot >>
+<< /A << /S /URI /Type /Action /URI (https://www.continuum.io/downloads) >> /Border [ 0 0 0 ] /Rect [ 117.5186 479.0236 165.5014 491.0236 ] /Subtype /Link /Type /Annot >>
 endobj
 15 0 obj
-<< /Annots [ 4 0 R 5 0 R 6 0 R 7 0 R 8 0 R 9 0 R 10 0 R 11 0 R 12 0 R 13 0 R 
-  14 0 R ] /Contents 22 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 21 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 
-  /Trans <<  >> /Type /Page >>
+<< /A << /S /URI /Type /Action /URI (http://creativecommons.org/licenses/by/4.0/) >> /Border [ 0 0 0 ] /Rect [ 194.4029 338.0236 439.5029 350.0236 ] /Subtype /Link /Type /Annot >>
 endobj
 16 0 obj
-<< /Outlines 18 0 R /PageLabels 23 0 R /PageMode /UseNone /Pages 21 0 R /Type /Catalog >>
+<< /Annots [ 4 0 R 5 0 R 6 0 R 7 0 R 8 0 R 9 0 R 10 0 R 11 0 R 12 0 R 13 0 R 
+  14 0 R 15 0 R ] /Contents 23 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 22 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 
+  /Trans <<  >> /Type /Page >>
 endobj
 17 0 obj
-<< /Author () /CreationDate (D:20160628041403-01'00') /Creator (\(unspecified\)) /Keywords () /Producer (ReportLab PDF Library - www.reportlab.com) /Subject (\(unspecified\)) 
-  /Title (Software Carpentry Workshop - San Sebastian 2016 - Scientific Python Lesson) >>
+<< /Outlines 19 0 R /PageLabels 24 0 R /PageMode /UseNone /Pages 22 0 R /Type /Catalog >>
 endobj
 18 0 obj
-<< /Count 2 /First 19 0 R /Last 20 0 R /Type /Outlines >>
+<< /Author () /CreationDate (D:20160628044144-01'00') /Creator (\(unspecified\)) /Keywords () /Producer (ReportLab PDF Library - www.reportlab.com) /Subject (\(unspecified\)) 
+  /Title (Software Carpentry Workshop - San Sebastian 2016 - Scientific Python Lesson) >>
 endobj
 19 0 obj
-<< /Dest [ 15 0 R /XYZ 62.69291 638.0236 0 ] /Next 20 0 R /Parent 18 0 R /Title (Abstract) >>
+<< /Count 2 /First 20 0 R /Last 21 0 R /Type /Outlines >>
 endobj
 20 0 obj
-<< /Dest [ 15 0 R /XYZ 62.69291 377.0236 0 ] /Parent 18 0 R /Prev 19 0 R /Title (License) >>
+<< /Dest [ 16 0 R /XYZ 62.69291 638.0236 0 ] /Next 21 0 R /Parent 19 0 R /Title (Abstract) >>
 endobj
 21 0 obj
-<< /Count 1 /Kids [ 15 0 R ] /Type /Pages >>
+<< /Dest [ 16 0 R /XYZ 62.69291 377.0236 0 ] /Parent 19 0 R /Prev 20 0 R /Title (License) >>
 endobj
 22 0 obj
-<< /Length 5281 >>
+<< /Count 1 /Kids [ 16 0 R ] /Type /Pages >>
+endobj
+23 0 obj
+<< /Length 5365 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
@@ -214,7 +217,7 @@ Q
 q
 1 0 0 1 23 -3 cm
 q
-BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (An introduction to ) Tj 0 0 .501961 rg (NumPy) Tj 0 0 0 rg (.) Tj T* ET
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (An introduction to ) Tj 0 0 .501961 rg (NumPy) Tj 0 0 0 rg (, based on Valentin Haenel's ) Tj 0 0 .501961 rg (SciPy 2013 Tutorial) Tj 0 0 0 rg (.) Tj T* ET
 Q
 Q
 q
@@ -308,14 +311,14 @@ Q
  
 endstream
 endobj
-23 0 obj
-<< /Nums [ 0 24 0 R ] >>
-endobj
 24 0 obj
+<< /Nums [ 0 25 0 R ] >>
+endobj
+25 0 obj
 << /S /D /St 1 >>
 endobj
 xref
-0 25
+0 26
 0000000000 65535 f
 0000000075 00000 n
 0000000119 00000 n
@@ -328,24 +331,25 @@ xref
 0000001253 00000 n
 0000001440 00000 n
 0000001617 00000 n
-0000001795 00000 n
-0000001991 00000 n
-0000002181 00000 n
-0000002380 00000 n
-0000002677 00000 n
-0000002786 00000 n
-0000003072 00000 n
-0000003149 00000 n
-0000003262 00000 n
-0000003374 00000 n
-0000003438 00000 n
-0000008776 00000 n
-0000008820 00000 n
+0000001828 00000 n
+0000002006 00000 n
+0000002202 00000 n
+0000002392 00000 n
+0000002591 00000 n
+0000002895 00000 n
+0000003004 00000 n
+0000003290 00000 n
+0000003367 00000 n
+0000003480 00000 n
+0000003592 00000 n
+0000003656 00000 n
+0000009078 00000 n
+0000009122 00000 n
 trailer
 << /ID 
  % ReportLab generated PDF document -- digest (http://www.reportlab.com)
- [(\222\324Od\217u\201\030\(_\205\210\342n\316\224) (\222\324Od\217u\201\030\(_\205\210\342n\316\224)]
- /Info 17 0 R /Root 16 0 R /Size 25 >>
+ [(W\273\255=\024\222E\224\335\300M\321\)V\347\263) (W\273\255=\024\222E\224\335\300M\321\)V\347\263)]
+ /Info 18 0 R /Root 17 0 R /Size 26 >>
 startxref
-8857
+9159
 %%EOF
