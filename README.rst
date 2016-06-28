@@ -11,12 +11,12 @@ Software Carpentry Workshop - San Sebastian 2016 - Scientific Python Lesson
 Abstract
 ########
 
-Introductory track for Scientific Computing with Python based on the `SciPy`_
+Introductory lesson for Scientific Computing with Python based on the `SciPy`_
 stack having four parts:
 
 * A short overview to some of the `SciPy`_ ecosystem core packages.
 
-* A quick start guide to `IPython`_ web based interactive computational environment, i.e. `IPython notebooks`_, which will allow the participants to follow along the rest of the tutorial.
+* A short review to the `Jupyter notebooks`_ web based interactive computational environment.
 
 * Oier Etxaniz introduction to `NumPy`_ (`tutorial material`_).
 
@@ -55,6 +55,7 @@ License`_.
 .. _`Matplotlib`: http://matplotlib.org/
 .. _`SciPy library`: http://www.scipy.org/scipylib/index.html
 .. _`IPython`: http://ipython.org
-.. _`IPython notebooks`: http://ipython.org/notebook.html
+.. _`Jupyter`: http://jupyter.org
+.. _`Jupyter notebooks`: http://ipython.org/notebook.html
 .. _`tutorial material`: https://github.com/PythonSanSebastian/numpy_euroscipy2015
 .. _`NumPy`: http://www.numpy.org/
