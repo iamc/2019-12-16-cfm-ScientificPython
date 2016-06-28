@@ -1,10 +1,12 @@
-************************************************************
-Pyhton San Sebastian 2015 - Scientific Python tutorial track
-************************************************************
+***************************************************************************
+Software Carpentry Workshop - San Sebastian 2016 - Scientific Python Lesson
+***************************************************************************
 
 
+:Lesson: Scientific Python
+:Date & place: Software Carpentry Workshop - San Sebastian 2016, 27-29th June
+               2016 (`workshop webpage`_)
 :Autor: Iñigo Aldazabal Mensa <inigo_aldazabal@ehu.eus>
-
 
 Abstract
 ########
@@ -46,6 +48,7 @@ This work is licensed under a `Creative Commons Attribution 4.0 International
 License`_.
 
 
+.. _`Workshop webpage`: http://iamc.eu/2016-06-27-cfmehu
 .. _`Creative Commons Attribution 4.0 International License`: http://creativecommons.org/licenses/by/4.0/
 .. _`SciPy`: http://www.scipy.org
 .. _`Anaconda`: https://www.continuum.io/downloads
