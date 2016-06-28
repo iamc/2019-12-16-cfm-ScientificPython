@@ -10,10 +10,10 @@ endobj
 << /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font >>
 endobj
 4 0 obj
-<< /A << /S /URI /Type /Action /URI (http://iamc.eu/2016-06-27-cfmehu) >> /Border [ 0 0 0 ] /Rect [ 483.7927 680.0236 526.3706 692.0236 ] /Subtype /Link /Type /Annot >>
+<< /A << /S /URI /Type /Action /URI (http://iamc.eu/2016-06-27-cfmehu) >> /Border [ 0 0 0 ] /Rect [ 483.7927 695.0236 526.3706 707.0236 ] /Subtype /Link /Type /Annot >>
 endobj
 5 0 obj
-<< /A << /S /URI /Type /Action /URI (http://iamc.eu/2016-06-27-cfmehu) >> /Border [ 0 0 0 ] /Rect [ 153.7323 668.0236 194.3123 680.0236 ] /Subtype /Link /Type /Annot >>
+<< /A << /S /URI /Type /Action /URI (http://iamc.eu/2016-06-27-cfmehu) >> /Border [ 0 0 0 ] /Rect [ 153.7323 683.0236 194.3123 695.0236 ] /Subtype /Link /Type /Annot >>
 endobj
 6 0 obj
 << /A << /S /URI /Type /Action /URI (mailto:inigo_aldazabal@ehu.eus) >> /Border [ 0 0 0 ] /Rect [ 263.5123 653.0236 378.7223 665.0236 ] /Subtype /Link /Type /Annot >>
@@ -51,7 +51,7 @@ endobj
 << /Outlines 18 0 R /PageLabels 23 0 R /PageMode /UseNone /Pages 21 0 R /Type /Catalog >>
 endobj
 17 0 obj
-<< /Author () /CreationDate (D:20160628041053-01'00') /Creator (\(unspecified\)) /Keywords () /Producer (ReportLab PDF Library - www.reportlab.com) /Subject (\(unspecified\)) 
+<< /Author () /CreationDate (D:20160628041403-01'00') /Creator (\(unspecified\)) /Keywords () /Producer (ReportLab PDF Library - www.reportlab.com) /Subject (\(unspecified\)) 
   /Title (Software Carpentry Workshop - San Sebastian 2016 - Scientific Python Lesson) >>
 endobj
 18 0 obj
@@ -67,7 +67,7 @@ endobj
 << /Count 1 /Kids [ 15 0 R ] /Type /Pages >>
 endobj
 22 0 obj
-<< /Length 5245 >>
+<< /Length 5281 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
@@ -77,27 +77,7 @@ BT 1 0 0 1 0 28 Tm 13.78488 0 Td 24 TL /F2 20 Tf 0 0 0 rg (Software Carpentry Wo
 Q
 Q
 q
-1 0 0 1 62.69291 692.0236 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 6 3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 34.69937 0 Td (Lesson:) Tj T* -34.69937 0 Td ET
-Q
-Q
-q
-1 0 0 1 91.03937 3 cm
-q
-BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Scientific Python) Tj T* ET
-Q
-Q
-q
-Q
-Q
-q
-1 0 0 1 62.69291 665.0236 cm
+1 0 0 1 62.69291 680.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -110,6 +90,27 @@ q
 1 0 0 1 91.03937 3 cm
 q
 BT 1 0 0 1 0 14 Tm .212039 Tw 12 TL /F1 10 Tf 0 0 0 rg (Software Carpentry Workshop - San Sebastian 2016, 27-29th June 2016 \() Tj 0 0 .501961 rg (workshop) Tj T* 0 Tw (webpage) Tj 0 0 0 rg (\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 665.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 43.02937 0 Td (Track:) Tj T* -43.02937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Scientific Python Lesson, June the 29th morning track) Tj T* ET
 Q
 Q
 q
@@ -338,13 +339,13 @@ xref
 0000003262 00000 n
 0000003374 00000 n
 0000003438 00000 n
-0000008740 00000 n
-0000008784 00000 n
+0000008776 00000 n
+0000008820 00000 n
 trailer
 << /ID 
  % ReportLab generated PDF document -- digest (http://www.reportlab.com)
- [(\224\364\342\311o\214\373\253\300\212O\301\276\3439\260) (\224\364\342\311o\214\373\253\300\212O\301\276\3439\260)]
+ [(\222\324Od\217u\201\030\(_\205\210\342n\316\224) (\222\324Od\217u\201\030\(_\205\210\342n\316\224)]
  /Info 17 0 R /Root 16 0 R /Size 25 >>
 startxref
-8821
+8857
 %%EOF

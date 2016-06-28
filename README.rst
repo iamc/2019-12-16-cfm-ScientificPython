@@ -3,9 +3,9 @@ Software Carpentry Workshop - San Sebastian 2016 - Scientific Python Lesson
 ***************************************************************************
 
 
-:Lesson: Scientific Python
 :Date & place: Software Carpentry Workshop - San Sebastian 2016, 27-29th June
                2016 (`workshop webpage`_)
+:Track: Scientific Python Lesson, June the 29th morning track
 :Autor: Iñigo Aldazabal Mensa <inigo_aldazabal@ehu.eus>
 
 Abstract
