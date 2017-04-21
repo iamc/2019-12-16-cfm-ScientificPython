@@ -1,11 +1,10 @@
-***************************************************************************
-Software Carpentry Workshop - San Sebastian 2016 - Scientific Python Lesson
-***************************************************************************
+***************************************************************
+CFM Software Carpentry Tracks - 2017-05-04  - Scientific Python
+***************************************************************
 
 
-:Date & place: Software Carpentry Workshop - San Sebastian 2016, 27-29th June
-               2016 (`workshop webpage`_)
-:Track: Scientific Python Lesson, June the 29th morning track
+:Date & place: Materials Physics Center (CFM) Computer Room - San Sebastian, 4th May, 9:30-13:30 2016
+:Track: Introduction to Scientific Python
 :Autor: Iñigo Aldazabal Mensa <inigo_aldazabal@ehu.eus>
 
 Abstract
@@ -28,7 +27,7 @@ stack having four parts:
 
 The participants are encouraged to follow the hands-on parts in their laptops.
 For this is enough with just having the `Anaconda`_ Python scientific stack
-installed. Please use the Python 3.4 version for your platform.
+installed. Please use the Python 3.6 version for your platform.
 
 
 
@@ -49,7 +48,6 @@ This work is licensed under a `Creative Commons Attribution 4.0 International
 License`_.
 
 
-.. _`Workshop webpage`: http://iamc.eu/2016-06-27-cfmehu
 .. _`Creative Commons Attribution 4.0 International License`: http://creativecommons.org/licenses/by/4.0/
 .. _`SciPy`: http://www.scipy.org
 .. _`Anaconda`: https://www.continuum.io/downloads
