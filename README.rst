@@ -1,11 +1,11 @@
-***************************************************************
-CFM Software Carpentry Tracks - 2017-05-04  - Scientific Python
-***************************************************************
-
+*******************************************************************************
+CFM Software Carpentry Tracks - 2017-05-04  - Introduction to Scientific Python
+*******************************************************************************
 
 :Date & place: Materials Physics Center (CFM) Computer Room - San Sebastian, 4th May, 9:30-13:30 2016
 :Track: Introduction to Scientific Python
 :Autor: Iñigo Aldazabal Mensa <inigo_aldazabal@ehu.eus>
+
 
 Abstract
 ########
@@ -13,16 +13,16 @@ Abstract
 Introductory lesson for Scientific Computing with Python based on the `SciPy`_
 stack having four parts:
 
-* A short overview to some of the `SciPy`_ ecosystem core packages.
+* An overview of the Scientific Python (`SciPy`_) ecosystem.
 
-* A short review to the `Jupyter notebooks`_ web based interactive computational environment.
+* A short introduction to the `Jupyter notebooks`_ web based interactive computational environment.
 
 * An introduction to `NumPy`_, based on Valentin Haenel's `SciPy 2013
   Tutorial`_.
 
 * A very short practical introduction to `Matplotlib`_.
 
-* A guided hands-on demostration of some of the `SciPy library`_ subpackages.
+* A guided hands-on demostration of some of the `SciPy`_ library subpackages.
 
 
 The participants are encouraged to follow the hands-on parts in their laptops.
@@ -52,9 +52,7 @@ License`_.
 .. _`Anaconda`: https://www.continuum.io/downloads
 .. _`Matplotlib`: http://matplotlib.org/
 .. _`SciPy library`: http://www.scipy.org/scipylib/index.html
-.. _`IPython`: http://ipython.org
-.. _`Jupyter`: http://jupyter.org
-.. _`Jupyter notebooks`: http://ipython.org/notebook.html
+.. _`Jupyter notebooks`: https://jupyter.org
 .. _`tutorial material`: https://github.com/PythonSanSebastian/numpy_euroscipy2015
 .. _`NumPy`: http://www.numpy.org/
 .. _`SciPy 2013 Tutorial`: https://github.com/esc/scipy2013-tutorial-numpy-ipython
