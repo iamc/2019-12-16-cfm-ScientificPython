@@ -27,8 +27,7 @@ stack having four parts:
 
 The participants are encouraged to follow the hands-on parts in their laptops.
 For this is enough with just having the `Anaconda`_ Python scientific stack
-installed. Please use the Python 3.6 version for your platform.
-
+installed. Installation is straightforward and you can follow eg. this `installation instructions`_. 
 
 
 **Targeted audience**: scientific and technical people interested in scientific
@@ -59,3 +58,6 @@ License`_.
 .. _`tutorial material`: https://github.com/PythonSanSebastian/numpy_euroscipy2015
 .. _`NumPy`: http://www.numpy.org/
 .. _`SciPy 2013 Tutorial`: https://github.com/esc/scipy2013-tutorial-numpy-ipython
+.. _`installation instructions`: https://swcarpentry-wuerzburg.github.io/2017-04-27-wuerzburg/#python
+
+
