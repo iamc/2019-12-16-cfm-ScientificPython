@@ -11,7 +11,7 @@ Abstract
 ########
 
 Introductory lesson for Scientific Computing with Python based on the `SciPy`_
-stack having four parts:
+stack having five parts:
 
 * An overview of the Scientific Python (`SciPy`_) ecosystem.
 
