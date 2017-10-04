@@ -28,13 +28,13 @@ endobj
 4 0 obj
 << /A << /S /URI
  /Type /Action
- /URI (mailto:inigo_aldazabal@ehu.eus) >>
+ /URI (mailto:inigo.aldazabalm@ehu.eus) >>
  /Border [ 0
  0
  0 ]
  /Rect [ 263.5123
  653.7736
- 378.7223
+ 384.2723
  665.7736 ]
  /Subtype /Link
  /Type /Annot >>
@@ -73,13 +73,13 @@ endobj
 7 0 obj
 << /A << /S /URI
  /Type /Action
- /URI (https://jupyter.org) >>
+ /URI (http://www.numpy.org/) >>
  /Border [ 0
  0
  0 ]
- /Rect [ 202.4229
+ /Rect [ 166.2929
  560.7736
- 286.9129
+ 199.0729
  572.7736 ]
  /Subtype /Link
  /Type /Annot >>
@@ -88,14 +88,14 @@ endobj
 8 0 obj
 << /A << /S /URI
  /Type /Action
- /URI (http://www.numpy.org/) >>
+ /URI (https://github.com/esc/scipy2013-tutorial-numpy-ipython) >>
  /Border [ 0
  0
  0 ]
- /Rect [ 166.2929
- 542.7736
- 199.0729
- 554.7736 ]
+ /Rect [ 328.8329
+ 560.7736
+ 415.5329
+ 572.7736 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
@@ -103,13 +103,13 @@ endobj
 9 0 obj
 << /A << /S /URI
  /Type /Action
- /URI (https://github.com/esc/scipy2013-tutorial-numpy-ipython) >>
+ /URI (http://matplotlib.org/) >>
  /Border [ 0
  0
  0 ]
- /Rect [ 328.8329
+ /Rect [ 247.4229
  542.7736
- 415.5329
+ 290.2129
  554.7736 ]
  /Subtype /Link
  /Type /Annot >>
@@ -118,13 +118,13 @@ endobj
 10 0 obj
 << /A << /S /URI
  /Type /Action
- /URI (http://matplotlib.org/) >>
+ /URI (http://www.scipy.org) >>
  /Border [ 0
  0
  0 ]
- /Rect [ 247.4229
+ /Rect [ 299.1429
  524.7736
- 290.2129
+ 327.4829
  536.7736 ]
  /Subtype /Link
  /Type /Annot >>
@@ -133,14 +133,14 @@ endobj
 11 0 obj
 << /A << /S /URI
  /Type /Action
- /URI (http://www.scipy.org) >>
+ /URI (https://www.continuum.io/downloads) >>
  /Border [ 0
  0
  0 ]
- /Rect [ 299.1429
- 506.7736
- 327.4829
- 518.7736 ]
+ /Rect [ 111.7243
+ 497.7736
+ 159.59
+ 509.7736 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
@@ -148,14 +148,14 @@ endobj
 12 0 obj
 << /A << /S /URI
  /Type /Action
- /URI (https://www.continuum.io/downloads) >>
+ /URI (https://swcarpentry-wuerzburg.github.io/2017-04-27-wuerzburg/#python) >>
  /Border [ 0
  0
  0 ]
- /Rect [ 111.7243
- 479.7736
- 159.59
- 491.7736 ]
+ /Rect [ 81.03291
+ 485.7736
+ 181.6229
+ 497.7736 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
@@ -163,34 +163,19 @@ endobj
 13 0 obj
 << /A << /S /URI
  /Type /Action
- /URI (https://swcarpentry-wuerzburg.github.io/2017-04-27-wuerzburg/#python) >>
- /Border [ 0
- 0
- 0 ]
- /Rect [ 81.03291
- 467.7736
- 181.6229
- 479.7736 ]
- /Subtype /Link
- /Type /Annot >>
-endobj
-% 'Annot.NUMBER11': class PDFDictionary 
-14 0 obj
-<< /A << /S /URI
- /Type /Action
  /URI (http://creativecommons.org/licenses/by/4.0/) >>
  /Border [ 0
  0
  0 ]
  /Rect [ 194.4029
- 338.7736
+ 356.7736
  439.5029
- 350.7736 ]
+ 368.7736 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
 % 'Page1': class PDFPage 
-15 0 obj
+14 0 obj
 % Page dictionary
 << /Annots [ 4 0 R
  5 0 R
@@ -201,14 +186,13 @@ endobj
  10 0 R
  11 0 R
  12 0 R
- 13 0 R
- 14 0 R ]
- /Contents 22 0 R
+ 13 0 R ]
+ /Contents 21 0 R
  /MediaBox [ 0
  0
  595.2756
  841.8898 ]
- /Parent 21 0 R
+ /Parent 20 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -219,71 +203,71 @@ endobj
  /Trans <<  >>
  /Type /Page >>
 endobj
-% 'R16': class PDFCatalog 
-16 0 obj
+% 'R15': class PDFCatalog 
+15 0 obj
 % Document Root
-<< /Outlines 18 0 R
- /PageLabels 23 0 R
+<< /Outlines 17 0 R
+ /PageLabels 22 0 R
  /PageMode /UseNone
- /Pages 21 0 R
+ /Pages 20 0 R
  /Type /Catalog >>
 endobj
-% 'R17': class PDFInfo 
-17 0 obj
+% 'R16': class PDFInfo 
+16 0 obj
 << /Author ()
- /CreationDate (D:20170428183013-01'00')
+ /CreationDate (D:20171004210141-01'00')
  /Creator (\(unspecified\))
  /Keywords ()
  /Producer (ReportLab PDF Library - www.reportlab.com)
  /Subject (\(unspecified\))
- /Title (CFM Software Carpentry Tracks - 2017-05-04  - Introduction to Scientific Python) >>
+ /Title (Pyhton San Sebastian 2017 - Scientific Python tutorial track) >>
 endobj
-% 'R18': class PDFOutlines 
-18 0 obj
+% 'R17': class PDFOutlines 
+17 0 obj
 << /Count 2
- /First 19 0 R
- /Last 20 0 R
+ /First 18 0 R
+ /Last 19 0 R
  /Type /Outlines >>
 endobj
 % 'Outline.0': class OutlineEntryObject 
-19 0 obj
-<< /Dest [ 15 0 R
+18 0 obj
+<< /Dest [ 14 0 R
  /XYZ
  62.69291
  638.0236
  0 ]
- /Next 20 0 R
- /Parent 18 0 R
+ /Next 19 0 R
+ /Parent 17 0 R
  /Title (Abstract) >>
 endobj
 % 'Outline.1': class OutlineEntryObject 
-20 0 obj
-<< /Dest [ 15 0 R
+19 0 obj
+<< /Dest [ 14 0 R
  /XYZ
  62.69291
- 377.0236
+ 395.0236
  0 ]
- /Parent 18 0 R
- /Prev 19 0 R
+ /Parent 17 0 R
+ /Prev 18 0 R
  /Title (License) >>
 endobj
-% 'R21': class PDFPages 
-21 0 obj
+% 'R20': class PDFPages 
+20 0 obj
 % page tree
 << /Count 1
- /Kids [ 15 0 R ]
+ /Kids [ 14 0 R ]
  /Type /Pages >>
 endobj
-% 'R22': class PDFStream 
-22 0 obj
+% 'R21': class PDFStream 
+21 0 obj
 % page stream
-<< /Length 5384 >>
+<< /Length 4971 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
 1 0 0 1 62.69291 717.0236 cm
 q
-BT 1 0 0 1 0 28 Tm 17.10488 0 Td 24 TL /F2 20 Tf 0 0 0 rg (CFM Software Carpentry Tracks - 2017-05-04 -) Tj T* 63.38 0 Td (Introduction to Scientific Python) Tj T* -80.48488 0 Td ET
+BT 1 0 0 1 0 28 Tm 14.87488 0 Td 24 TL /F2 20 Tf 0 0 0 rg (Pyhton San Sebastian 2017 - Scientific Python) Tj T* 159.5 0 Td (tutorial track) Tj T* -174.3749 0 Td ET
 Q
 Q
 q
@@ -299,7 +283,7 @@ Q
 q
 1 0 0 1 91.03937 3 cm
 q
-BT 1 0 0 1 0 14 Tm 3.720039 Tw 12 TL /F1 10 Tf 0 0 0 rg (Materials Physics Center \(CFM\) Computer Room - San Sebastian, 4th May,) Tj T* 0 Tw (9:30-13:30 2016) Tj T* ET
+BT 1 0 0 1 0 14 Tm 5.120044 Tw 12 TL /F1 10 Tf 0 0 0 rg (Materials Physics Center \(CFM\) Auditorium - San Sebastian, 6th October,) Tj T* 0 Tw (14:30-17:30 2017) Tj T* ET
 Q
 Q
 q
@@ -340,7 +324,7 @@ Q
 q
 1 0 0 1 91.03937 3 cm
 q
-BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (I\361igo Aldazabal Mensa <) Tj 0 0 .501961 rg (inigo_aldazabal@ehu.eus) Tj 0 0 0 rg (>) Tj T* ET
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (I\361igo Aldazabal Mensa <) Tj 0 0 .501961 rg (inigo.aldazabalm@ehu.eus) Tj 0 0 0 rg (>) Tj T* ET
 Q
 Q
 q
@@ -401,7 +385,7 @@ Q
 q
 1 0 0 1 23 -3 cm
 q
-BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (A short introduction to the ) Tj 0 0 .501961 rg (Jupyter notebooks ) Tj 0 0 0 rg (web based interactive computational environment.) Tj T* ET
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (An introduction to ) Tj 0 0 .501961 rg (NumPy) Tj 0 0 0 rg (, based on Valentin Haenel's ) Tj 0 0 .501961 rg (SciPy 2013 Tutorial) Tj 0 0 0 rg (.) Tj T* ET
 Q
 Q
 q
@@ -424,7 +408,7 @@ Q
 q
 1 0 0 1 23 -3 cm
 q
-BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (An introduction to ) Tj 0 0 .501961 rg (NumPy) Tj 0 0 0 rg (, based on Valentin Haenel's ) Tj 0 0 .501961 rg (SciPy 2013 Tutorial) Tj 0 0 0 rg (.) Tj T* ET
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (A very short practical introduction to ) Tj 0 0 .501961 rg (Matplotlib) Tj 0 0 0 rg (.) Tj T* ET
 Q
 Q
 q
@@ -447,29 +431,6 @@ Q
 q
 1 0 0 1 23 -3 cm
 q
-BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (A very short practical introduction to ) Tj 0 0 .501961 rg (Matplotlib) Tj 0 0 0 rg (.) Tj T* ET
-Q
-Q
-q
-Q
-Q
-q
-1 0 0 1 62.69291 521.0236 cm
-Q
-q
-1 0 0 1 62.69291 509.0236 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 6 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
-Q
-Q
-q
-1 0 0 1 23 -3 cm
-q
 BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (A guided hands-on demostration of some of the ) Tj 0 0 .501961 rg (SciPy ) Tj 0 0 0 rg (library subpackages.) Tj T* ET
 Q
 Q
@@ -477,40 +438,40 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 509.0236 cm
+1 0 0 1 62.69291 527.0236 cm
 Q
 q
-1 0 0 1 62.69291 467.0236 cm
+1 0 0 1 62.69291 485.0236 cm
 q
-BT 1 0 0 1 0 26 Tm .503516 Tw 12 TL /F1 10 Tf 0 0 0 rg (The participants are encouraged to follow the hands-on parts in their laptops. For this is enough with just) Tj T* 0 Tw .055697 Tw (having the ) Tj 0 0 .501961 rg (Anaconda ) Tj 0 0 0 rg (Python scientific stack installed. Installation is straightforward and you can follow eg.) Tj T* 0 Tw (this ) Tj 0 0 .501961 rg (installation instructions) Tj 0 0 0 rg (.) Tj T* ET
+BT 1 0 0 1 0 26 Tm .503516 Tw 12 TL /F1 10 Tf 0 0 0 rg (The participants are encouraged to follow the hands-on parts in their laptops. For this is enough with just) Tj T* 0 Tw .055697 Tw (having the ) Tj 0 0 .501961 rg (Anaconda ) Tj 0 0 0 rg (Python scientific stack installed. Installation is straightforward and you can follow eg.) Tj T* 0 Tw (this ) Tj 0 0 .501961 rg (installation instructions) Tj 0 0 0 rg (. Please use the Python 3 version for your platform.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 455.0236 cm
+q
+BT 1 0 0 1 0 14 Tm 4.46816 Tw 12 TL /F2 10 Tf 0 0 0 rg (Targeted audience) Tj /F1 10 Tf (: scientific and technical people interested in computing, data analysis, task) Tj T* 0 Tw (automation,...) Tj T* ET
 Q
 Q
 q
 1 0 0 1 62.69291 437.0236 cm
 q
-BT 1 0 0 1 0 14 Tm .669147 Tw 12 TL /F2 10 Tf 0 0 0 rg (Targeted audience) Tj /F1 10 Tf (: scientific and technical people interested in scientific computing, data analysis, task) Tj T* 0 Tw (automation,...) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 419.0236 cm
-q
 BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Content level) Tj /F1 10 Tf (: beginner) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 389.0236 cm
+1 0 0 1 62.69291 407.0236 cm
 q
 BT 1 0 0 1 0 14 Tm .729979 Tw 12 TL /F2 10 Tf 0 0 0 rg (Audience prerequisites) Tj /F1 10 Tf (: basic general programming knowledge. Python knowledge is desirable but not) Tj T* 0 Tw (essential if you have experience with any other programming languaje.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 356.0236 cm
+1 0 0 1 62.69291 374.0236 cm
 q
 BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (License) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 338.0236 cm
+1 0 0 1 62.69291 356.0236 cm
 q
 BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (This work is licensed under a ) Tj 0 0 .501961 rg (Creative Commons Attribution 4.0 International License) Tj 0 0 0 rg (.) Tj T* ET
 Q
@@ -518,53 +479,52 @@ Q
  
 endstream
 endobj
-% 'R23': class PDFPageLabels 
-23 0 obj
+% 'R22': class PDFPageLabels 
+22 0 obj
 % Document Root
 << /Nums [ 0
- 24 0 R ] >>
+ 23 0 R ] >>
 endobj
-% 'R24': class PDFPageLabel 
-24 0 obj
+% 'R23': class PDFPageLabel 
+23 0 obj
 % None
 << /S /D
  /St 1 >>
 endobj
 xref
-0 25
+0 24
 0000000000 65535 f
 0000000113 00000 n
 0000000221 00000 n
 0000000386 00000 n
 0000000573 00000 n
-0000000821 00000 n
-0000001059 00000 n
-0000001297 00000 n
-0000001534 00000 n
-0000001773 00000 n
-0000002046 00000 n
-0000002287 00000 n
-0000002526 00000 n
-0000002778 00000 n
-0000003066 00000 n
-0000003314 00000 n
-0000003700 00000 n
-0000003859 00000 n
-0000004186 00000 n
-0000004311 00000 n
-0000004480 00000 n
-0000004632 00000 n
-0000004740 00000 n
-0000010227 00000 n
-0000010320 00000 n
+0000000822 00000 n
+0000001060 00000 n
+0000001298 00000 n
+0000001537 00000 n
+0000001810 00000 n
+0000002050 00000 n
+0000002289 00000 n
+0000002540 00000 n
+0000002828 00000 n
+0000003076 00000 n
+0000003453 00000 n
+0000003612 00000 n
+0000003920 00000 n
+0000004045 00000 n
+0000004214 00000 n
+0000004366 00000 n
+0000004474 00000 n
+0000009548 00000 n
+0000009641 00000 n
 trailer
 << /ID 
  % ReportLab generated PDF document -- digest (http://www.reportlab.com) 
- [(\311\375\031\357\270\310\020iH\260\270\310\321R\037x) (\311\375\031\357\270\310\020iH\260\270\310\321R\037x)] 
+ [(j\322f\013 \322\321.\323\334\261\024\235\327\324\377) (j\322f\013 \322\321.\323\334\261\024\235\327\324\377)] 
 
- /Info 17 0 R
- /Root 16 0 R
- /Size 25 >>
+ /Info 16 0 R
+ /Root 15 0 R
+ /Size 24 >>
 startxref
-10367
+9688
 %%EOF

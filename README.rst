@@ -1,10 +1,10 @@
-*******************************************************************************
-CFM Software Carpentry Tracks - 2017-05-04  - Introduction to Scientific Python
-*******************************************************************************
+************************************************************
+Pyhton San Sebastian 2017 - Scientific Python tutorial track
+************************************************************
 
-:Date & place: Materials Physics Center (CFM) Computer Room - San Sebastian, 4th May, 9:30-13:30 2016
+:Date & place: Materials Physics Center (CFM) Auditorium - San Sebastian, 6th October, 14:30-17:30 2017
 :Track: Introduction to Scientific Python
-:Autor: Iñigo Aldazabal Mensa <inigo_aldazabal@ehu.eus>
+:Autor: Iñigo Aldazabal Mensa <inigo.aldazabalm@ehu.eus>
 
 
 Abstract
@@ -14,8 +14,6 @@ Introductory lesson for Scientific Computing with Python based on the `SciPy`_
 stack having five parts:
 
 * An overview of the Scientific Python (`SciPy`_) ecosystem.
-
-* A short introduction to the `Jupyter notebooks`_ web based interactive computational environment.
 
 * An introduction to `NumPy`_, based on Valentin Haenel's `SciPy 2013
   Tutorial`_.
@@ -27,10 +25,10 @@ stack having five parts:
 
 The participants are encouraged to follow the hands-on parts in their laptops.
 For this is enough with just having the `Anaconda`_ Python scientific stack
-installed. Installation is straightforward and you can follow eg. this `installation instructions`_. 
+installed. Installation is straightforward and you can follow eg. this `installation instructions`_. Please use the Python 3 version for your platform.
 
 
-**Targeted audience**: scientific and technical people interested in scientific
+**Targeted audience**: scientific and technical people interested in 
 computing, data analysis, task automation,...
 
 **Content level**: beginner
