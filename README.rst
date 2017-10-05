@@ -69,11 +69,11 @@ Schedule
 License
 #######
 
-This work is licensed under a `Creative Commons Attribution 4.0 International
-License`_.
+This work is licensed under a `Creative Commons Attribution-ShareAlike 4.0
+International License`_.
 
 
-.. _`Creative Commons Attribution 4.0 International License`: http://creativecommons.org/licenses/by/4.0/
+.. _`Creative Commons Attribution-ShareAlike 4.0 International License`: http://creativecommons.org/licenses/by-sa/4.0
 .. _`SciPy`: http://www.scipy.org
 .. _`Anaconda`: https://www.continuum.io/downloads
 .. _`Matplotlib`: http://matplotlib.org/

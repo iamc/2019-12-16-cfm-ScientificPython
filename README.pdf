@@ -218,13 +218,13 @@ endobj
 17 0 obj
 << /A << /S /URI
  /Type /Action
- /URI (http://creativecommons.org/licenses/by/4.0/) >>
+ /URI (http://creativecommons.org/licenses/by-sa/4.0) >>
  /Border [ 0
  0
  0 ]
  /Rect [ 194.4029
  110.7736
- 439.5029
+ 491.1829
  122.7736 ]
  /Subtype /Link
  /Type /Annot >>
@@ -273,7 +273,7 @@ endobj
 % 'R20': class PDFInfo 
 20 0 obj
 << /Author ()
- /CreationDate (D:20171005105712-01'00')
+ /CreationDate (D:20171005143022-01'00')
  /Creator (\(unspecified\))
  /Keywords ()
  /Producer (ReportLab PDF Library - www.reportlab.com)
@@ -343,7 +343,7 @@ endobj
 % 'R27': class PDFStream 
 27 0 obj
 % page stream
-<< /Length 8259 >>
+<< /Length 8270 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
@@ -729,7 +729,7 @@ Q
 q
 1 0 0 1 62.69291 110.0236 cm
 q
-BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (This work is licensed under a ) Tj 0 0 .501961 rg (Creative Commons Attribution 4.0 International License) Tj 0 0 0 rg (.) Tj T* ET
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (This work is licensed under a ) Tj 0 0 .501961 rg (Creative Commons Attribution-ShareAlike 4.0 International License) Tj 0 0 0 rg (.) Tj T* ET
 Q
 Q
  
@@ -767,26 +767,26 @@ xref
 0000003366 00000 n
 0000003593 00000 n
 0000003788 00000 n
-0000004036 00000 n
-0000004440 00000 n
-0000004599 00000 n
-0000004890 00000 n
-0000005015 00000 n
-0000005191 00000 n
-0000005382 00000 n
-0000005566 00000 n
-0000005718 00000 n
-0000005826 00000 n
-0000014188 00000 n
-0000014281 00000 n
+0000004038 00000 n
+0000004442 00000 n
+0000004601 00000 n
+0000004892 00000 n
+0000005017 00000 n
+0000005193 00000 n
+0000005384 00000 n
+0000005568 00000 n
+0000005720 00000 n
+0000005828 00000 n
+0000014201 00000 n
+0000014294 00000 n
 trailer
 << /ID 
  % ReportLab generated PDF document -- digest (http://www.reportlab.com) 
- [(\374X\260\237\306}g \237\257\355?m\345u\220) (\374X\260\237\306}g \237\257\355?m\345u\220)] 
+ [(\215\252\227\025\257J\357\271\351y\366\337\006\202\250\220) (\215\252\227\025\257J\357\271\351y\366\337\006\202\250\220)] 
 
  /Info 20 0 R
  /Root 19 0 R
  /Size 30 >>
 startxref
-14328
+14341
 %%EOF
