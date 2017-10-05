@@ -4,7 +4,8 @@
 1 0 obj
 % The standard fonts dictionary
 << /F1 2 0 R
- /F2 3 0 R >>
+ /F2 3 0 R
+ /F3 16 0 R >>
 endobj
 % 'F1': class PDFType1Font 
 2 0 obj
@@ -28,14 +29,14 @@ endobj
 4 0 obj
 << /A << /S /URI
  /Type /Action
- /URI (mailto:inigo.aldazabalm@ehu.eus) >>
+ /URI (mailto:alex.savio@gmail.com) >>
  /Border [ 0
  0
  0 ]
- /Rect [ 263.5123
- 653.7736
- 384.2723
- 665.7736 ]
+ /Rect [ 238.7857
+ 677.7736
+ 338.9557
+ 689.7736 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
@@ -43,14 +44,14 @@ endobj
 5 0 obj
 << /A << /S /URI
  /Type /Action
- /URI (http://www.scipy.org) >>
+ /URI (mailto:inigo.aldazabalm@ehu.eus) >>
  /Border [ 0
  0
  0 ]
- /Rect [ 373.3929
- 599.7736
- 401.7329
- 611.7736 ]
+ /Rect [ 159.5723
+ 665.7736
+ 280.3323
+ 677.7736 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
@@ -58,14 +59,14 @@ endobj
 6 0 obj
 << /A << /S /URI
  /Type /Action
- /URI (http://www.scipy.org) >>
+ /URI (https://www.continuum.io/downloads) >>
  /Border [ 0
  0
  0 ]
- /Rect [ 250.7629
- 578.7736
- 276.3229
- 590.7736 ]
+ /Rect [ 111.7243
+ 632.7736
+ 159.59
+ 644.7736 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
@@ -73,14 +74,14 @@ endobj
 7 0 obj
 << /A << /S /URI
  /Type /Action
- /URI (http://www.numpy.org/) >>
+ /URI (http://iamc.eu/2017-06-28-cfmehu/#python) >>
  /Border [ 0
  0
  0 ]
- /Rect [ 166.2929
- 560.7736
- 199.0729
- 572.7736 ]
+ /Rect [ 81.03291
+ 620.7736
+ 181.6229
+ 632.7736 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
@@ -88,14 +89,14 @@ endobj
 8 0 obj
 << /A << /S /URI
  /Type /Action
- /URI (https://github.com/esc/scipy2013-tutorial-numpy-ipython) >>
+ /URI (http://swcarpentry.github.io/python-novice-gapminder/) >>
  /Border [ 0
  0
  0 ]
- /Rect [ 328.8329
- 560.7736
- 415.5329
- 572.7736 ]
+ /Rect [ 478.9669
+ 473.7736
+ 531.7769
+ 485.7736 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
@@ -103,14 +104,14 @@ endobj
 9 0 obj
 << /A << /S /URI
  /Type /Action
- /URI (http://matplotlib.org/) >>
+ /URI (http://swcarpentry.github.io/python-novice-gapminder/) >>
  /Border [ 0
  0
  0 ]
- /Rect [ 247.4229
- 542.7736
- 290.2129
- 554.7736 ]
+ /Rect [ 62.69291
+ 461.7736
+ 169.9529
+ 473.7736 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
@@ -122,10 +123,10 @@ endobj
  /Border [ 0
  0
  0 ]
- /Rect [ 299.1429
- 524.7736
- 327.4829
- 536.7736 ]
+ /Rect [ 373.3929
+ 392.7736
+ 401.7329
+ 404.7736 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
@@ -133,14 +134,14 @@ endobj
 11 0 obj
 << /A << /S /URI
  /Type /Action
- /URI (https://www.continuum.io/downloads) >>
+ /URI (http://www.scipy.org) >>
  /Border [ 0
  0
  0 ]
- /Rect [ 111.7243
- 497.7736
- 159.59
- 509.7736 ]
+ /Rect [ 250.7629
+ 371.7736
+ 276.3229
+ 383.7736 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
@@ -148,14 +149,14 @@ endobj
 12 0 obj
 << /A << /S /URI
  /Type /Action
- /URI (https://swcarpentry-wuerzburg.github.io/2017-04-27-wuerzburg/#python) >>
+ /URI (http://www.numpy.org/) >>
  /Border [ 0
  0
  0 ]
- /Rect [ 81.03291
- 485.7736
- 181.6229
- 497.7736 ]
+ /Rect [ 166.2929
+ 353.7736
+ 199.0729
+ 365.7736 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
@@ -163,19 +164,73 @@ endobj
 13 0 obj
 << /A << /S /URI
  /Type /Action
+ /URI (https://github.com/esc/scipy2013-tutorial-numpy-ipython) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 328.8329
+ 353.7736
+ 415.5329
+ 365.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER11': class PDFDictionary 
+14 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://matplotlib.org/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 247.4229
+ 335.7736
+ 290.2129
+ 347.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER12': class PDFDictionary 
+15 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.scipy.org) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 299.1429
+ 317.7736
+ 327.4829
+ 329.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'F3': class PDFType1Font 
+16 0 obj
+% Font Helvetica-Oblique
+<< /BaseFont /Helvetica-Oblique
+ /Encoding /WinAnsiEncoding
+ /Name /F3
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'Annot.NUMBER13': class PDFDictionary 
+17 0 obj
+<< /A << /S /URI
+ /Type /Action
  /URI (http://creativecommons.org/licenses/by/4.0/) >>
  /Border [ 0
  0
  0 ]
  /Rect [ 194.4029
- 356.7736
+ 110.7736
  439.5029
- 368.7736 ]
+ 122.7736 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
 % 'Page1': class PDFPage 
-14 0 obj
+18 0 obj
 % Page dictionary
 << /Annots [ 4 0 R
  5 0 R
@@ -186,13 +241,16 @@ endobj
  10 0 R
  11 0 R
  12 0 R
- 13 0 R ]
- /Contents 21 0 R
+ 13 0 R
+ 14 0 R
+ 15 0 R
+ 17 0 R ]
+ /Contents 27 0 R
  /MediaBox [ 0
  0
  595.2756
  841.8898 ]
- /Parent 20 0 R
+ /Parent 26 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -203,75 +261,99 @@ endobj
  /Trans <<  >>
  /Type /Page >>
 endobj
-% 'R15': class PDFCatalog 
-15 0 obj
+% 'R19': class PDFCatalog 
+19 0 obj
 % Document Root
-<< /Outlines 17 0 R
- /PageLabels 22 0 R
+<< /Outlines 21 0 R
+ /PageLabels 28 0 R
  /PageMode /UseNone
- /Pages 20 0 R
+ /Pages 26 0 R
  /Type /Catalog >>
 endobj
-% 'R16': class PDFInfo 
-16 0 obj
+% 'R20': class PDFInfo 
+20 0 obj
 << /Author ()
- /CreationDate (D:20171004210141-01'00')
+ /CreationDate (D:20171005105712-01'00')
  /Creator (\(unspecified\))
  /Keywords ()
  /Producer (ReportLab PDF Library - www.reportlab.com)
  /Subject (\(unspecified\))
- /Title (Pyhton San Sebastian 2017 - Scientific Python tutorial track) >>
+ /Title (Pyhton San Sebastian 2017 - Python workshop) >>
 endobj
-% 'R17': class PDFOutlines 
-17 0 obj
-<< /Count 2
- /First 18 0 R
- /Last 19 0 R
+% 'R21': class PDFOutlines 
+21 0 obj
+<< /Count 4
+ /First 22 0 R
+ /Last 25 0 R
  /Type /Outlines >>
 endobj
 % 'Outline.0': class OutlineEntryObject 
-18 0 obj
-<< /Dest [ 14 0 R
+22 0 obj
+<< /Dest [ 18 0 R
  /XYZ
  62.69291
- 638.0236
+ 530.0236
  0 ]
- /Next 19 0 R
- /Parent 17 0 R
- /Title (Abstract) >>
+ /Next 23 0 R
+ /Parent 21 0 R
+ /Title (Morning session) >>
 endobj
 % 'Outline.1': class OutlineEntryObject 
-19 0 obj
-<< /Dest [ 14 0 R
+23 0 obj
+<< /Dest [ 18 0 R
  /XYZ
  62.69291
- 395.0236
+ 449.0236
  0 ]
- /Parent 17 0 R
- /Prev 18 0 R
+ /Next 24 0 R
+ /Parent 21 0 R
+ /Prev 22 0 R
+ /Title (Evening session) >>
+endobj
+% 'Outline.2': class OutlineEntryObject 
+24 0 obj
+<< /Dest [ 18 0 R
+ /XYZ
+ 62.69291
+ 308.0236
+ 0 ]
+ /Next 25 0 R
+ /Parent 21 0 R
+ /Prev 23 0 R
+ /Title (Schedule) >>
+endobj
+% 'Outline.3': class OutlineEntryObject 
+25 0 obj
+<< /Dest [ 18 0 R
+ /XYZ
+ 62.69291
+ 149.0236
+ 0 ]
+ /Parent 21 0 R
+ /Prev 24 0 R
  /Title (License) >>
 endobj
-% 'R20': class PDFPages 
-20 0 obj
+% 'R26': class PDFPages 
+26 0 obj
 % page tree
 << /Count 1
- /Kids [ 14 0 R ]
+ /Kids [ 18 0 R ]
  /Type /Pages >>
 endobj
-% 'R21': class PDFStream 
-21 0 obj
+% 'R27': class PDFStream 
+27 0 obj
 % page stream
-<< /Length 4971 >>
+<< /Length 8259 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
-1 0 0 1 62.69291 717.0236 cm
+1 0 0 1 62.69291 741.0236 cm
 q
-BT 1 0 0 1 0 28 Tm 14.87488 0 Td 24 TL /F2 20 Tf 0 0 0 rg (Pyhton San Sebastian 2017 - Scientific Python) Tj T* 159.5 0 Td (tutorial track) Tj T* -174.3749 0 Td ET
+BT 1 0 0 1 0 4 Tm 12.10488 0 Td 24 TL /F2 20 Tf 0 0 0 rg (Pyhton San Sebastian 2017 - Python workshop) Tj T* -12.10488 0 Td ET
 Q
 Q
 q
-1 0 0 1 62.69291 680.0236 cm
+1 0 0 1 62.69291 704.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -283,73 +365,121 @@ Q
 q
 1 0 0 1 91.03937 3 cm
 q
-BT 1 0 0 1 0 14 Tm 5.120044 Tw 12 TL /F1 10 Tf 0 0 0 rg (Materials Physics Center \(CFM\) Auditorium - San Sebastian, 6th October,) Tj T* 0 Tw (14:30-17:30 2017) Tj T* ET
+BT 1 0 0 1 0 14 Tm 1.106399 Tw 12 TL /F1 10 Tf 0 0 0 rg (Materials Physics Center \(CFM\) Auditorium - San Sebastian, 6th October, 9:15h -) Tj T* 0 Tw (17:30h) Tj T* ET
 Q
 Q
 q
 Q
 Q
 q
-1 0 0 1 62.69291 665.0236 cm
+1 0 0 1 62.69291 689.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
 1 0 0 1 6 3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 43.02937 0 Td (Track:) Tj T* -43.02937 0 Td ET
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 31.93937 0 Td (Content:) Tj T* -31.93937 0 Td ET
 Q
 Q
 q
 1 0 0 1 91.03937 3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Introduction to Scientific Python) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Introduction to Python and Scientific Python) Tj T* ET
 Q
 Q
 q
 Q
 Q
 q
-1 0 0 1 62.69291 650.0236 cm
+1 0 0 1 62.69291 662.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
-1 0 0 1 6 3 cm
+1 0 0 1 6 15 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 43.04937 0 Td (Autor:) Tj T* -43.04937 0 Td ET
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 17.47937 0 Td (Instructors:) Tj T* -17.47937 0 Td ET
 Q
 Q
 q
 1 0 0 1 91.03937 3 cm
 q
-BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (I\361igo Aldazabal Mensa <) Tj 0 0 .501961 rg (inigo.aldazabalm@ehu.eus) Tj 0 0 0 rg (>) Tj T* ET
+BT 1 0 0 1 0 14 Tm 14.59673 Tw 12 TL /F1 10 Tf 0 0 0 rg (Alex Savio <) Tj 0 0 .501961 rg (alex.savio@gmail.com) Tj 0 0 0 rg (> and I\361igo Aldazabal Mensa) Tj T* 0 Tw (<) Tj 0 0 .501961 rg (inigo.aldazabalm@ehu.eus) Tj 0 0 0 rg (>) Tj T* ET
 Q
 Q
 q
 Q
 Q
 q
-1 0 0 1 62.69291 617.0236 cm
+1 0 0 1 62.69291 620.0236 cm
 q
-BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Abstract) Tj T* ET
+BT 1 0 0 1 0 26 Tm 1.716235 Tw 12 TL /F1 10 Tf 0 0 0 rg (Participants are encouraged to follow the hands-on parts in their laptops. For this is enough with just) Tj T* 0 Tw .055697 Tw (having the ) Tj 0 0 .501961 rg (Anaconda ) Tj 0 0 0 rg (Python scientific stack installed. Installation is straightforward and you can follow eg.) Tj T* 0 Tw (this ) Tj 0 0 .501961 rg (installation instructions) Tj 0 0 0 rg (. Please use the Python 3 version for your platform.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 599.0236 cm
+1 0 0 1 62.69291 590.0236 cm
 q
-BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Introductory lesson for Scientific Computing with Python based on the ) Tj 0 0 .501961 rg (SciPy ) Tj 0 0 0 rg (stack having five parts:) Tj T* ET
+BT 1 0 0 1 0 14 Tm 4.46816 Tw 12 TL /F2 10 Tf 0 0 0 rg (Targeted audience) Tj /F1 10 Tf (: scientific and technical people interested in computing, data analysis, task) Tj T* 0 Tw (automation,...) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 593.0236 cm
+1 0 0 1 62.69291 572.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Content level) Tj /F1 10 Tf (: beginner) Tj T* ET
+Q
 Q
 q
-1 0 0 1 62.69291 593.0236 cm
+1 0 0 1 62.69291 542.0236 cm
+q
+BT 1 0 0 1 0 14 Tm .932706 Tw 12 TL /F2 10 Tf 0 0 0 rg (Audience prerequisites) Tj /F1 10 Tf (: basic general programming knowledge. Python knowledge is desirable for the) Tj T* 0 Tw (evening sessions, but not essential if you have experience with any other programming languaje.) Tj T* ET
+Q
 Q
 q
-1 0 0 1 62.69291 581.0236 cm
+1 0 0 1 62.69291 509.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Morning session) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 491.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Introduction to Python) Tj /F1 10 Tf (, instructor Alex Savio.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 461.0236 cm
+q
+BT 1 0 0 1 0 14 Tm .805814 Tw 12 TL /F1 10 Tf 0 0 0 rg (General introduction to the Python programming language following the Software Carpentry ) Tj 0 0 .501961 rg (Plotting and) Tj T* 0 Tw (Programming in Python ) Tj 0 0 0 rg (lesson. Plotting will be covered on the evening session.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 428.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Evening session) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 410.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Introduction to Scientific Python) Tj /F1 10 Tf (, instructor Inigo Aldazabal.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 392.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Introductory lesson for Scientific Computing with Python based on the ) Tj 0 0 .501961 rg (SciPy ) Tj 0 0 0 rg (stack having four parts:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 386.0236 cm
+Q
+q
+1 0 0 1 62.69291 386.0236 cm
+Q
+q
+1 0 0 1 62.69291 374.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -369,10 +499,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 575.0236 cm
+1 0 0 1 62.69291 368.0236 cm
 Q
 q
-1 0 0 1 62.69291 563.0236 cm
+1 0 0 1 62.69291 356.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -392,10 +522,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 557.0236 cm
+1 0 0 1 62.69291 350.0236 cm
 Q
 q
-1 0 0 1 62.69291 545.0236 cm
+1 0 0 1 62.69291 338.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -415,10 +545,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 539.0236 cm
+1 0 0 1 62.69291 332.0236 cm
 Q
 q
-1 0 0 1 62.69291 527.0236 cm
+1 0 0 1 62.69291 320.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -438,40 +568,166 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 527.0236 cm
+1 0 0 1 62.69291 320.0236 cm
 Q
 q
-1 0 0 1 62.69291 485.0236 cm
+1 0 0 1 62.69291 287.0236 cm
 q
-BT 1 0 0 1 0 26 Tm .503516 Tw 12 TL /F1 10 Tf 0 0 0 rg (The participants are encouraged to follow the hands-on parts in their laptops. For this is enough with just) Tj T* 0 Tw .055697 Tw (having the ) Tj 0 0 .501961 rg (Anaconda ) Tj 0 0 0 rg (Python scientific stack installed. Installation is straightforward and you can follow eg.) Tj T* 0 Tw (this ) Tj 0 0 .501961 rg (installation instructions) Tj 0 0 0 rg (. Please use the Python 3 version for your platform.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 455.0236 cm
-q
-BT 1 0 0 1 0 14 Tm 4.46816 Tw 12 TL /F2 10 Tf 0 0 0 rg (Targeted audience) Tj /F1 10 Tf (: scientific and technical people interested in computing, data analysis, task) Tj T* 0 Tw (automation,...) Tj T* ET
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Schedule) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 437.0236 cm
+1 0 0 1 62.69291 275.0236 cm
+Q
 q
-BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Content level) Tj /F1 10 Tf (: beginner) Tj T* ET
+1 0 0 1 62.69291 221.0236 cm
+1 1 1 rg
+n 0 54 469.8898 -18 re f*
+.878431 .878431 .878431 rg
+n 0 36 469.8898 -18 re f*
+1 1 1 rg
+n 0 18 469.8898 -18 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 39 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (9:15 - 11:00) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 407.0236 cm
+1 0 0 1 240.9449 39 cm
 q
-BT 1 0 0 1 0 14 Tm .729979 Tw 12 TL /F2 10 Tf 0 0 0 rg (Audience prerequisites) Tj /F1 10 Tf (: basic general programming knowledge. Python knowledge is desirable but not) Tj T* 0 Tw (essential if you have experience with any other programming languaje.) Tj T* ET
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Introduction to Python) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 374.0236 cm
+1 0 0 1 6 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (11:00 - 11:30) Tj T* ET
+Q
+Q
+q
+1 0 0 1 240.9449 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL (Coffee break) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (11:30 - 13:00) Tj T* ET
+Q
+Q
+q
+1 0 0 1 240.9449 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Introduction to Python \(cont.\)) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+0 0 0 RG
+.25 w
+n 0 36 m 469.8898 36 l S
+n 0 18 m 469.8898 18 l S
+n 234.9449 0 m 234.9449 54 l S
+n 0 54 m 469.8898 54 l S
+n 0 0 m 469.8898 0 l S
+n 0 0 m 0 54 l S
+n 469.8898 0 m 469.8898 54 l S
+Q
+Q
+q
+1 0 0 1 62.69291 221.0236 cm
+Q
+q
+1 0 0 1 62.69291 215.0236 cm
+Q
+q
+1 0 0 1 62.69291 161.0236 cm
+1 1 1 rg
+n 0 54 469.8898 -18 re f*
+.878431 .878431 .878431 rg
+n 0 36 469.8898 -18 re f*
+1 1 1 rg
+n 0 18 469.8898 -18 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 39 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (14:30 - 15:45) Tj T* ET
+Q
+Q
+q
+1 0 0 1 240.9449 39 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Introduction to Scientific Python) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (15:45 - 16:15) Tj T* ET
+Q
+Q
+q
+1 0 0 1 240.9449 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL (Coffee break) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (16:15 - 17:30) Tj T* ET
+Q
+Q
+q
+1 0 0 1 240.9449 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Introduction to Scientific Python \(cont.\)) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+0 0 0 RG
+.25 w
+n 0 36 m 469.8898 36 l S
+n 0 18 m 469.8898 18 l S
+n 234.9449 0 m 234.9449 54 l S
+n 0 54 m 469.8898 54 l S
+n 0 0 m 469.8898 0 l S
+n 0 0 m 0 54 l S
+n 469.8898 0 m 469.8898 54 l S
+Q
+Q
+q
+1 0 0 1 62.69291 161.0236 cm
+Q
+q
+1 0 0 1 62.69291 128.0236 cm
 q
 BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (License) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 356.0236 cm
+1 0 0 1 62.69291 110.0236 cm
 q
 BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (This work is licensed under a ) Tj 0 0 .501961 rg (Creative Commons Attribution 4.0 International License) Tj 0 0 0 rg (.) Tj T* ET
 Q
@@ -479,52 +735,58 @@ Q
  
 endstream
 endobj
-% 'R22': class PDFPageLabels 
-22 0 obj
+% 'R28': class PDFPageLabels 
+28 0 obj
 % Document Root
 << /Nums [ 0
- 23 0 R ] >>
+ 29 0 R ] >>
 endobj
-% 'R23': class PDFPageLabel 
-23 0 obj
+% 'R29': class PDFPageLabel 
+29 0 obj
 % None
 << /S /D
  /St 1 >>
 endobj
 xref
-0 24
+0 30
 0000000000 65535 f
 0000000113 00000 n
-0000000221 00000 n
-0000000386 00000 n
-0000000573 00000 n
-0000000822 00000 n
-0000001060 00000 n
-0000001298 00000 n
-0000001537 00000 n
-0000001810 00000 n
-0000002050 00000 n
-0000002289 00000 n
-0000002540 00000 n
-0000002828 00000 n
-0000003076 00000 n
-0000003453 00000 n
-0000003612 00000 n
-0000003920 00000 n
-0000004045 00000 n
-0000004214 00000 n
-0000004366 00000 n
-0000004474 00000 n
-0000009548 00000 n
-0000009641 00000 n
+0000000234 00000 n
+0000000399 00000 n
+0000000586 00000 n
+0000000831 00000 n
+0000001080 00000 n
+0000001330 00000 n
+0000001588 00000 n
+0000001859 00000 n
+0000002130 00000 n
+0000002369 00000 n
+0000002608 00000 n
+0000002849 00000 n
+0000003124 00000 n
+0000003366 00000 n
+0000003593 00000 n
+0000003788 00000 n
+0000004036 00000 n
+0000004440 00000 n
+0000004599 00000 n
+0000004890 00000 n
+0000005015 00000 n
+0000005191 00000 n
+0000005382 00000 n
+0000005566 00000 n
+0000005718 00000 n
+0000005826 00000 n
+0000014188 00000 n
+0000014281 00000 n
 trailer
 << /ID 
  % ReportLab generated PDF document -- digest (http://www.reportlab.com) 
- [(j\322f\013 \322\321.\323\334\261\024\235\327\324\377) (j\322f\013 \322\321.\323\334\261\024\235\327\324\377)] 
+ [(\374X\260\237\306}g \237\257\355?m\345u\220) (\374X\260\237\306}g \237\257\355?m\345u\220)] 
 
- /Info 16 0 R
- /Root 15 0 R
- /Size 24 >>
+ /Info 20 0 R
+ /Root 19 0 R
+ /Size 30 >>
 startxref
-9688
+14328
 %%EOF

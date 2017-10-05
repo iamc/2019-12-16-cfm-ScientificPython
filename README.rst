@@ -1,14 +1,41 @@
-************************************************************
-Pyhton San Sebastian 2017 - Scientific Python tutorial track
-************************************************************
+*******************************************
+Pyhton San Sebastian 2017 - Python workshop
+*******************************************
 
-:Date & place: Materials Physics Center (CFM) Auditorium - San Sebastian, 6th October, 14:30-17:30 2017
-:Track: Introduction to Scientific Python
-:Autor: Iñigo Aldazabal Mensa <inigo.aldazabalm@ehu.eus>
+:Date & place: Materials Physics Center (CFM) Auditorium - San Sebastian, 6th October, 9:15h - 17:30h
+:Content: Introduction to Python and Scientific Python
+:Instructors: Alex Savio <alex.savio@gmail.com> and Iñigo Aldazabal Mensa <inigo.aldazabalm@ehu.eus>
+
+Participants are encouraged to follow the hands-on parts in their laptops.
+For this is enough with just having the `Anaconda`_ Python scientific stack
+installed. Installation is straightforward and you can follow eg. this `installation instructions`_. Please use the Python 3 version for your platform.
+
+**Targeted audience**: scientific and technical people interested in 
+computing, data analysis, task automation,...
+
+**Content level**: beginner
+
+**Audience prerequisites**: basic general programming knowledge. Python knowledge is
+desirable for the evening sessions, but not essential if you have experience with any other programming languaje.
 
 
-Abstract
-########
+Morning session
+###############
+
+**Introduction to Python**, instructor Alex Savio.
+
+General introduction to the Python programming language following the Software
+Carpentry `Plotting and Programming in Python`_ lesson. Plotting will be
+covered on the evening session.
+
+
+.. _`Plotting and Programming in Python`: http://swcarpentry.github.io/python-novice-gapminder/
+
+
+Evening session
+###############
+
+**Introduction to Scientific Python**, instructor Inigo Aldazabal.
 
 Introductory lesson for Scientific Computing with Python based on the `SciPy`_
 stack having four parts:
@@ -23,20 +50,21 @@ stack having four parts:
 * A guided hands-on demostration of some of the `SciPy`_ library subpackages.
 
 
-The participants are encouraged to follow the hands-on parts in their laptops.
-For this is enough with just having the `Anaconda`_ Python scientific stack
-installed. Installation is straightforward and you can follow eg. this `installation instructions`_. Please use the Python 3 version for your platform.
 
+Schedule
+########
 
-**Targeted audience**: scientific and technical people interested in 
-computing, data analysis, task automation,...
+.. csv-table::
 
-**Content level**: beginner
-
-**Audience prerequisites**: basic general programming knowledge. Python knowledge is
-desirable but not essential if you have experience with any other programming languaje.
-
-
+    9:15 - 11:00, Introduction to Python
+    11:00 - 11:30, *Coffee break*
+    11:30 - 13:00, Introduction to Python (cont.)
+ 
+.. csv-table::
+    
+    14:30 - 15:45, Introduction to Scientific Python
+    15:45 - 16:15, *Coffee break*
+    16:15 - 17:30, Introduction to Scientific Python (cont.)
 
 License
 #######
@@ -54,6 +82,6 @@ License`_.
 .. _`tutorial material`: https://github.com/PythonSanSebastian/numpy_euroscipy2015
 .. _`NumPy`: http://www.numpy.org/
 .. _`SciPy 2013 Tutorial`: https://github.com/esc/scipy2013-tutorial-numpy-ipython
-.. _`installation instructions`: https://swcarpentry-wuerzburg.github.io/2017-04-27-wuerzburg/#python
+.. _`installation instructions`: http://iamc.eu/2017-06-28-cfmehu/#python
 
 
