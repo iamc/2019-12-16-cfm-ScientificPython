@@ -4,8 +4,8 @@ Python San Sebastian 2017 - Python workshop
 
 :Date & place: Materials Physics Center (CFM) Auditorium - San Sebastian, 6th October, 9:15h - 17:30h
 :Content: Introduction to Python and Scientific Python
-:Instructors: Alex Savio <alex.savio@gmail.com> and Iñigo Aldazabal Mensa <inigo.aldazabalm@ehu.eus>
-
+:Instructors: Iñigo Aldazabal Mensa <inigo.aldazabalm@ehu.eus>, Alex Savio <alex.savio@gmail.com> and Gabriel de Maeztu <gabriel.maeztu@gmail.com>
+              
 Participants are encouraged to follow the hands-on parts in their laptops.
 For this is enough with just having the `Anaconda`_ Python scientific stack
 installed. Installation is straightforward and you can follow eg. this `installation instructions`_. Please use the Python 3 version for your platform.
@@ -22,7 +22,7 @@ desirable for the evening sessions, but not essential if you have experience wit
 Morning session
 ###############
 
-**Introduction to Python**, instructor Alex Savio.
+**Introduction to Python**, instructors Alex Savio and Gabriel de Maeztu.
 
 General introduction to the Python programming language following the Software
 Carpentry `Plotting and Programming in Python`_ lesson. Plotting will be
