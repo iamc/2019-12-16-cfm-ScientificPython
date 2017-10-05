@@ -1,5 +1,5 @@
 *******************************************
-Pyhton San Sebastian 2017 - Python workshop
+Python San Sebastian 2017 - Python workshop
 *******************************************
 
 :Date & place: Materials Physics Center (CFM) Auditorium - San Sebastian, 6th October, 9:15h - 17:30h

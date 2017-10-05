@@ -273,12 +273,12 @@ endobj
 % 'R20': class PDFInfo 
 20 0 obj
 << /Author ()
- /CreationDate (D:20171005143022-01'00')
+ /CreationDate (D:20171005152433-01'00')
  /Creator (\(unspecified\))
  /Keywords ()
  /Producer (ReportLab PDF Library - www.reportlab.com)
  /Subject (\(unspecified\))
- /Title (Pyhton San Sebastian 2017 - Python workshop) >>
+ /Title (Python San Sebastian 2017 - Python workshop) >>
 endobj
 % 'R21': class PDFOutlines 
 21 0 obj
@@ -349,7 +349,7 @@ stream
 q
 1 0 0 1 62.69291 741.0236 cm
 q
-BT 1 0 0 1 0 4 Tm 12.10488 0 Td 24 TL /F2 20 Tf 0 0 0 rg (Pyhton San Sebastian 2017 - Python workshop) Tj T* -12.10488 0 Td ET
+BT 1 0 0 1 0 4 Tm 12.10488 0 Td 24 TL /F2 20 Tf 0 0 0 rg (Python San Sebastian 2017 - Python workshop) Tj T* -12.10488 0 Td ET
 Q
 Q
 q
@@ -782,7 +782,7 @@ xref
 trailer
 << /ID 
  % ReportLab generated PDF document -- digest (http://www.reportlab.com) 
- [(\215\252\227\025\257J\357\271\351y\366\337\006\202\250\220) (\215\252\227\025\257J\357\271\351y\366\337\006\202\250\220)] 
+ [(\354\317\305*\202\036\(\351\373\0246\377\360\224\322\004) (\354\317\305*\202\036\(\351\373\0246\377\360\224\322\004)] 
 
  /Info 20 0 R
  /Root 19 0 R
