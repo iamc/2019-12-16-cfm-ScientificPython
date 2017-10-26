@@ -3,7 +3,7 @@ Software Carpentry Workshop - Institute for Theoretical Physics
 ***************************************************************
 
 :Date & place: Software Carpentry Workshop - Institute for Theoretical Physics,
-               25-27th Octiber 2017 (`workshop webpage`_)
+               25-27th October 2017 (`workshop webpage`_). Thursday 26th evening session.
 :Content: Introduction to Python and Scientific Python
 :Instructors: Iñigo Aldazabal Mensa <inigo.aldazabalm@ehu.eus>
               

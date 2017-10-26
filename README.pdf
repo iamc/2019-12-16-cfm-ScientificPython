@@ -231,7 +231,7 @@ endobj
 % 'R17': class PDFInfo 
 17 0 obj
 << /Author ()
- /CreationDate (D:20171023120038-01'00')
+ /CreationDate (D:20171026113153-01'00')
  /Creator (\(unspecified\))
  /Keywords ()
  /Producer (ReportLab PDF Library - www.reportlab.com)
@@ -277,7 +277,7 @@ endobj
 % 'R22': class PDFStream 
 22 0 obj
 % page stream
-<< /Length 5080 >>
+<< /Length 5112 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
@@ -299,7 +299,7 @@ Q
 q
 1 0 0 1 91.03937 3 cm
 q
-BT 1 0 0 1 0 14 Tm 1.845599 Tw 12 TL /F1 10 Tf 0 0 0 rg (Software Carpentry Workshop - Institute for Theoretical Physics, 25-27th Octiber) Tj T* 0 Tw (2017 \() Tj 0 0 .501961 rg (workshop webpage) Tj 0 0 0 rg (\)) Tj T* ET
+BT 1 0 0 1 0 14 Tm 1.474488 Tw 12 TL /F1 10 Tf 0 0 0 rg (Software Carpentry Workshop - Institute for Theoretical Physics, 25-27th October) Tj T* 0 Tw (2017 \() Tj 0 0 .501961 rg (workshop webpage) Tj 0 0 0 rg (\). Thursday 26th evening session.) Tj T* ET
 Q
 Q
 q
@@ -532,16 +532,16 @@ xref
 0000004464 00000 n
 0000004616 00000 n
 0000004724 00000 n
-0000009907 00000 n
-0000010000 00000 n
+0000009939 00000 n
+0000010032 00000 n
 trailer
 << /ID 
  % ReportLab generated PDF document -- digest (http://www.reportlab.com) 
- [(\023\354I\036\242\360\340\377\022\342X\212\015\177\301d) (\023\354I\036\242\360\340\377\022\342X\212\015\177\301d)] 
+ [(iO\316U\323\353[\006\204\216\355\374: 8\006) (iO\316U\323\353[\006\204\216\355\374: 8\006)] 
 
  /Info 17 0 R
  /Root 16 0 R
  /Size 25 >>
 startxref
-10047
+10079
 %%EOF
