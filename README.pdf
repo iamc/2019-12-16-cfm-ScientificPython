@@ -1,289 +1,149 @@
 %PDF-1.4
 %“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
-% 'BasicFonts': class PDFDictionary 
 1 0 obj
-% The standard fonts dictionary
-<< /F1 2 0 R
- /F2 3 0 R >>
+<<
+/F1 2 0 R /F2 3 0 R
+>>
 endobj
-% 'F1': class PDFType1Font 
 2 0 obj
-% Font Helvetica
-<< /BaseFont /Helvetica
- /Encoding /WinAnsiEncoding
- /Name /F1
- /Subtype /Type1
- /Type /Font >>
+<<
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+>>
 endobj
-% 'F2': class PDFType1Font 
 3 0 obj
-% Font Helvetica-Bold
-<< /BaseFont /Helvetica-Bold
- /Encoding /WinAnsiEncoding
- /Name /F2
- /Subtype /Type1
- /Type /Font >>
+<<
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+>>
 endobj
-% 'Annot.NUMBER1': class PDFDictionary 
 4 0 obj
-<< /A << /S /URI
- /Type /Action
- /URI (https://adgdt.github.io/2017-10-25-ift/) >>
- /Border [ 0
- 0
- 0 ]
- /Rect [ 182.0823
- 683.7736
- 268.2323
- 695.7736 ]
- /Subtype /Link
- /Type /Annot >>
+<<
+/A <<
+/S /URI /Type /Action /URI (https://adgdt.github.io/2017-10-25-ift/)
+>> /Border [ 0 0 0 ] /Rect [ 253.2223 683.0236 339.3723 695.0236 ] /Subtype /Link /Type /Annot
+>>
 endobj
-% 'Annot.NUMBER2': class PDFDictionary 
 5 0 obj
-<< /A << /S /URI
- /Type /Action
- /URI (mailto:inigo.aldazabalm@ehu.eus) >>
- /Border [ 0
- 0
- 0 ]
- /Rect [ 263.5123
- 653.7736
- 384.2723
- 665.7736 ]
- /Subtype /Link
- /Type /Annot >>
+<<
+/A <<
+/S /URI /Type /Action /URI (mailto:inigo.aldazabalm@ehu.eus)
+>> /Border [ 0 0 0 ] /Rect [ 263.5123 653.0236 384.2723 665.0236 ] /Subtype /Link /Type /Annot
+>>
 endobj
-% 'Annot.NUMBER3': class PDFDictionary 
 6 0 obj
-<< /A << /S /URI
- /Type /Action
- /URI (http://www.scipy.org) >>
- /Border [ 0
- 0
- 0 ]
- /Rect [ 373.3929
- 599.7736
- 401.7329
- 611.7736 ]
- /Subtype /Link
- /Type /Annot >>
+<<
+/A <<
+/S /URI /Type /Action /URI (http://www.scipy.org)
+>> /Border [ 0 0 0 ] /Rect [ 373.3929 599.0236 398.9529 611.0236 ] /Subtype /Link /Type /Annot
+>>
 endobj
-% 'Annot.NUMBER4': class PDFDictionary 
 7 0 obj
-<< /A << /S /URI
- /Type /Action
- /URI (http://www.scipy.org) >>
- /Border [ 0
- 0
- 0 ]
- /Rect [ 250.7629
- 578.7736
- 276.3229
- 590.7736 ]
- /Subtype /Link
- /Type /Annot >>
+<<
+/A <<
+/S /URI /Type /Action /URI (http://www.scipy.org)
+>> /Border [ 0 0 0 ] /Rect [ 250.7629 578.0236 276.3229 590.0236 ] /Subtype /Link /Type /Annot
+>>
 endobj
-% 'Annot.NUMBER5': class PDFDictionary 
 8 0 obj
-<< /A << /S /URI
- /Type /Action
- /URI (http://www.numpy.org/) >>
- /Border [ 0
- 0
- 0 ]
- /Rect [ 166.2929
- 560.7736
- 199.0729
- 572.7736 ]
- /Subtype /Link
- /Type /Annot >>
+<<
+/A <<
+/S /URI /Type /Action /URI (http://www.numpy.org/)
+>> /Border [ 0 0 0 ] /Rect [ 166.2929 560.0236 199.0729 572.0236 ] /Subtype /Link /Type /Annot
+>>
 endobj
-% 'Annot.NUMBER6': class PDFDictionary 
 9 0 obj
-<< /A << /S /URI
- /Type /Action
- /URI (https://github.com/esc/scipy2013-tutorial-numpy-ipython) >>
- /Border [ 0
- 0
- 0 ]
- /Rect [ 328.8329
- 560.7736
- 415.5329
- 572.7736 ]
- /Subtype /Link
- /Type /Annot >>
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/esc/scipy2013-tutorial-numpy-ipython)
+>> /Border [ 0 0 0 ] /Rect [ 328.8329 560.0236 415.5329 572.0236 ] /Subtype /Link /Type /Annot
+>>
 endobj
-% 'Annot.NUMBER7': class PDFDictionary 
 10 0 obj
-<< /A << /S /URI
- /Type /Action
- /URI (http://matplotlib.org/) >>
- /Border [ 0
- 0
- 0 ]
- /Rect [ 247.4229
- 542.7736
- 290.2129
- 554.7736 ]
- /Subtype /Link
- /Type /Annot >>
+<<
+/A <<
+/S /URI /Type /Action /URI (http://matplotlib.org/)
+>> /Border [ 0 0 0 ] /Rect [ 247.4229 542.0236 290.2129 554.0236 ] /Subtype /Link /Type /Annot
+>>
 endobj
-% 'Annot.NUMBER8': class PDFDictionary 
 11 0 obj
-<< /A << /S /URI
- /Type /Action
- /URI (http://www.scipy.org) >>
- /Border [ 0
- 0
- 0 ]
- /Rect [ 299.1429
- 524.7736
- 327.4829
- 536.7736 ]
- /Subtype /Link
- /Type /Annot >>
+<<
+/A <<
+/S /URI /Type /Action /URI (http://www.scipy.org)
+>> /Border [ 0 0 0 ] /Rect [ 299.1429 524.0236 324.7029 536.0236 ] /Subtype /Link /Type /Annot
+>>
 endobj
-% 'Annot.NUMBER9': class PDFDictionary 
 12 0 obj
-<< /A << /S /URI
- /Type /Action
- /URI (https://www.continuum.io/downloads) >>
- /Border [ 0
- 0
- 0 ]
- /Rect [ 111.7243
- 497.7736
- 159.59
- 509.7736 ]
- /Subtype /Link
- /Type /Annot >>
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.continuum.io/downloads)
+>> /Border [ 0 0 0 ] /Rect [ 111.6129 497.0236 156.7543 509.0236 ] /Subtype /Link /Type /Annot
+>>
 endobj
-% 'Annot.NUMBER10': class PDFDictionary 
 13 0 obj
-<< /A << /S /URI
- /Type /Action
- /URI (https://adgdt.github.io/2017-10-25-ift/#setup) >>
- /Border [ 0
- 0
- 0 ]
- /Rect [ 81.03291
- 485.7736
- 181.6229
- 497.7736 ]
- /Subtype /Link
- /Type /Annot >>
+<<
+/A <<
+/S /URI /Type /Action /URI (https://adgdt.github.io/2017-10-25-ift/#setup)
+>> /Border [ 0 0 0 ] /Rect [ 81.03291 485.0236 181.6229 497.0236 ] /Subtype /Link /Type /Annot
+>>
 endobj
-% 'Annot.NUMBER11': class PDFDictionary 
 14 0 obj
-<< /A << /S /URI
- /Type /Action
- /URI (http://creativecommons.org/licenses/by-sa/4.0) >>
- /Border [ 0
- 0
- 0 ]
- /Rect [ 194.4029
- 356.7736
- 491.1829
- 368.7736 ]
- /Subtype /Link
- /Type /Annot >>
+<<
+/A <<
+/S /URI /Type /Action /URI (http://creativecommons.org/licenses/by-sa/4.0)
+>> /Border [ 0 0 0 ] /Rect [ 194.4029 356.0236 491.1829 368.0236 ] /Subtype /Link /Type /Annot
+>>
 endobj
-% 'Page1': class PDFPage 
 15 0 obj
-% Page dictionary
-<< /Annots [ 4 0 R
- 5 0 R
- 6 0 R
- 7 0 R
- 8 0 R
- 9 0 R
- 10 0 R
- 11 0 R
- 12 0 R
- 13 0 R
- 14 0 R ]
- /Contents 22 0 R
- /MediaBox [ 0
- 0
- 595.2756
- 841.8898 ]
- /Parent 21 0 R
- /Resources << /Font 1 0 R
- /ProcSet [ /PDF
- /Text
- /ImageB
- /ImageC
- /ImageI ] >>
- /Rotate 0
- /Trans <<  >>
- /Type /Page >>
+<<
+/Annots [ 4 0 R 5 0 R 6 0 R 7 0 R 8 0 R 9 0 R 10 0 R 11 0 R 12 0 R 13 0 R 
+  14 0 R ] /Contents 22 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 21 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
 endobj
-% 'R16': class PDFCatalog 
 16 0 obj
-% Document Root
-<< /Outlines 18 0 R
- /PageLabels 23 0 R
- /PageMode /UseNone
- /Pages 21 0 R
- /Type /Catalog >>
+<<
+/Outlines 18 0 R /PageLabels 23 0 R /PageMode /UseNone /Pages 21 0 R /Type /Catalog
+>>
 endobj
-% 'R17': class PDFInfo 
 17 0 obj
-<< /Author ()
- /CreationDate (D:20171026113153-01'00')
- /Creator (\(unspecified\))
- /Keywords ()
- /Producer (ReportLab PDF Library - www.reportlab.com)
- /Subject (\(unspecified\))
- /Title (Software Carpentry Workshop - Institute for Theoretical Physics) >>
+<<
+/Author () /CreationDate (D:20181212141334-01'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20181212141334-01'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+  /Subject (\(unspecified\)) /Title (Software Carpentry Workshop - Materials Physics Center \(CFM\)) /Trapped /False
+>>
 endobj
-% 'R18': class PDFOutlines 
 18 0 obj
-<< /Count 2
- /First 19 0 R
- /Last 20 0 R
- /Type /Outlines >>
+<<
+/Count 2 /First 19 0 R /Last 20 0 R /Type /Outlines
+>>
 endobj
-% 'Outline.0': class OutlineEntryObject 
 19 0 obj
-<< /Dest [ 15 0 R
- /XYZ
- 62.69291
- 638.0236
- 0 ]
- /Next 20 0 R
- /Parent 18 0 R
- /Title (Abstract) >>
+<<
+/Dest [ 15 0 R /XYZ 62.69291 638.0236 0 ] /Next 20 0 R /Parent 18 0 R /Title (Abstract)
+>>
 endobj
-% 'Outline.1': class OutlineEntryObject 
 20 0 obj
-<< /Dest [ 15 0 R
- /XYZ
- 62.69291
- 395.0236
- 0 ]
- /Parent 18 0 R
- /Prev 19 0 R
- /Title (License) >>
+<<
+/Dest [ 15 0 R /XYZ 62.69291 395.0236 0 ] /Parent 18 0 R /Prev 19 0 R /Title (License)
+>>
 endobj
-% 'R21': class PDFPages 
 21 0 obj
-% page tree
-<< /Count 1
- /Kids [ 15 0 R ]
- /Type /Pages >>
+<<
+/Count 1 /Kids [ 15 0 R ] /Type /Pages
+>>
 endobj
-% 'R22': class PDFStream 
 22 0 obj
-% page stream
-<< /Length 5112 >>
+<<
+/Length 4891
+>>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
 1 0 0 1 62.69291 717.0236 cm
 q
-BT 1 0 0 1 0 28 Tm 27.14488 0 Td 24 TL /F2 20 Tf 0 0 0 rg (Software Carpentry Workshop - Institute for) Tj T* 113.87 0 Td (Theoretical Physics) Tj T* -141.0149 0 Td ET
+BT 1 0 0 1 0 28 Tm 38.79488 0 Td 24 TL /F2 20 Tf 0 0 0 rg (Software Carpentry Workshop - Materials) Tj T* 92.8 0 Td (Physics Center \(CFM\)) Tj T* -131.5949 0 Td ET
 Q
 Q
 q
@@ -299,7 +159,7 @@ Q
 q
 1 0 0 1 91.03937 3 cm
 q
-BT 1 0 0 1 0 14 Tm 1.474488 Tw 12 TL /F1 10 Tf 0 0 0 rg (Software Carpentry Workshop - Institute for Theoretical Physics, 25-27th October) Tj T* 0 Tw (2017 \() Tj 0 0 .501961 rg (workshop webpage) Tj 0 0 0 rg (\). Thursday 26th evening session.) Tj T* ET
+BT 1 0 0 1 0 14 Tm .644199 Tw 12 TL /F1 10 Tf 0 0 0 rg (Software Carpentry Workshop - Materials Phyiscs Center \(CFM\), 5, 10, 13, 18 and) Tj T* 0 Tw (19th December 2018 \() Tj 0 0 .501961 rg (workshop webpage) Tj 0 0 0 rg (\). Wednesday 19th session.) Tj T* ET
 Q
 Q
 q
@@ -320,7 +180,7 @@ q
 1 0 0 1 91.03937 3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Introduction to Python and Scientific Python) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Introduction to Scientific Python) Tj T* ET
 Q
 Q
 q
@@ -355,7 +215,7 @@ Q
 q
 1 0 0 1 62.69291 599.0236 cm
 q
-BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Introductory lesson for Scientific Computing with Python based on the ) Tj 0 0 .501961 rg (SciPy ) Tj 0 0 0 rg (stack having four parts:) Tj T* ET
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Introductory lesson for Scientific Computing with Python based on the ) Tj 0 0 .501961 rg (SciPy) Tj 0 0 0 rg ( stack having four parts:) Tj T* ET
 Q
 Q
 q
@@ -447,7 +307,7 @@ Q
 q
 1 0 0 1 23 -3 cm
 q
-BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (A guided hands-on demostration of some of the ) Tj 0 0 .501961 rg (SciPy ) Tj 0 0 0 rg (library subpackages.) Tj T* ET
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (A guided hands-on demostration of some of the ) Tj 0 0 .501961 rg (SciPy) Tj 0 0 0 rg ( library subpackages.) Tj T* ET
 Q
 Q
 q
@@ -459,7 +319,7 @@ Q
 q
 1 0 0 1 62.69291 485.0236 cm
 q
-BT 1 0 0 1 0 26 Tm 1.716235 Tw 12 TL /F1 10 Tf 0 0 0 rg (Participants are encouraged to follow the hands-on parts in their laptops. For this is enough with just) Tj T* 0 Tw .055697 Tw (having the ) Tj 0 0 .501961 rg (Anaconda ) Tj 0 0 0 rg (Python scientific stack installed. Installation is straightforward and you can follow eg.) Tj T* 0 Tw (this ) Tj 0 0 .501961 rg (installation instructions) Tj 0 0 0 rg (. Please use the Python 3 version for your platform.) Tj T* ET
+BT 1 0 0 1 0 26 Tm 1.716235 Tw 12 TL /F1 10 Tf 0 0 0 rg (Participants are encouraged to follow the hands-on parts in their laptops. For this is enough with just) Tj T* 0 Tw .055697 Tw (having the ) Tj 0 0 .501961 rg (Anaconda) Tj 0 0 0 rg ( Python scientific stack installed. Installation is straightforward and you can follow eg.) Tj T* 0 Tw (this ) Tj 0 0 .501961 rg (installation instructions) Tj 0 0 0 rg (. Please use the Python 3 version for your platform.) Tj T* ET
 Q
 Q
 q
@@ -495,53 +355,53 @@ Q
  
 endstream
 endobj
-% 'R23': class PDFPageLabels 
 23 0 obj
-% Document Root
-<< /Nums [ 0
- 24 0 R ] >>
+<<
+/Nums [ 0 24 0 R ]
+>>
 endobj
-% 'R24': class PDFPageLabel 
 24 0 obj
-% None
-<< /S /D
- /St 1 >>
+<<
+/S /D /St 1
+>>
 endobj
 xref
 0 25
-0000000000 65535 f
-0000000113 00000 n
-0000000221 00000 n
-0000000386 00000 n
-0000000573 00000 n
-0000000830 00000 n
-0000001079 00000 n
-0000001317 00000 n
-0000001555 00000 n
-0000001794 00000 n
-0000002067 00000 n
-0000002308 00000 n
-0000002547 00000 n
-0000002799 00000 n
-0000003064 00000 n
-0000003314 00000 n
-0000003700 00000 n
-0000003859 00000 n
-0000004170 00000 n
-0000004295 00000 n
-0000004464 00000 n
-0000004616 00000 n
-0000004724 00000 n
-0000009939 00000 n
-0000010032 00000 n
+0000000000 65535 f 
+0000000073 00000 n 
+0000000114 00000 n 
+0000000221 00000 n 
+0000000333 00000 n 
+0000000524 00000 n 
+0000000707 00000 n 
+0000000879 00000 n 
+0000001051 00000 n 
+0000001224 00000 n 
+0000001431 00000 n 
+0000001606 00000 n 
+0000001779 00000 n 
+0000001966 00000 n 
+0000002164 00000 n 
+0000002362 00000 n 
+0000002654 00000 n 
+0000002760 00000 n 
+0000003080 00000 n 
+0000003154 00000 n 
+0000003264 00000 n 
+0000003373 00000 n 
+0000003434 00000 n 
+0000008377 00000 n 
+0000008418 00000 n 
 trailer
-<< /ID 
- % ReportLab generated PDF document -- digest (http://www.reportlab.com) 
- [(iO\316U\323\353[\006\204\216\355\374: 8\006) (iO\316U\323\353[\006\204\216\355\374: 8\006)] 
+<<
+/ID 
+[<e030d95049bc911819cc36172bf12a02><e030d95049bc911819cc36172bf12a02>]
+% ReportLab generated PDF document -- digest (http://www.reportlab.com)
 
- /Info 17 0 R
- /Root 16 0 R
- /Size 25 >>
+/Info 17 0 R
+/Root 16 0 R
+/Size 25
+>>
 startxref
-10079
+8452
 %%EOF

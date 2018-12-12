@@ -1,10 +1,10 @@
-***************************************************************
-Software Carpentry Workshop - Institute for Theoretical Physics
-***************************************************************
+************************************************************
+Software Carpentry Workshop - Materials Physics Center (CFM)
+************************************************************
 
-:Date & place: Software Carpentry Workshop - Institute for Theoretical Physics,
-               25-27th October 2017 (`workshop webpage`_). Thursday 26th evening session.
-:Content: Introduction to Python and Scientific Python
+:Date & place: Software Carpentry Workshop - Materials Phyiscs Center (CFM),
+               5, 10, 13, 18 and 19th December 2018 (`workshop webpage`_). Wednesday 19th  session.
+:Content: Introduction to Scientific Python
 :Instructors: Iñigo Aldazabal Mensa <inigo.aldazabalm@ehu.eus>
               
    
