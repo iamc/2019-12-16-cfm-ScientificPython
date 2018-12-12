@@ -44,7 +44,7 @@ This work is licensed under a `Creative Commons Attribution-ShareAlike 4.0
 International License`_.
 
 
-.. _`workshop webpage`: https://adgdt.github.io/2017-10-25-ift/
+.. _`workshop webpage`: https://scw-ss.github.io/2018-12-05-cfm
 .. _`Creative Commons Attribution-ShareAlike 4.0 International License`: http://creativecommons.org/licenses/by-sa/4.0
 .. _`SciPy`: http://www.scipy.org
 .. _`Anaconda`: https://www.continuum.io/downloads
