@@ -54,6 +54,6 @@ International License`_.
 .. _`tutorial material`: https://github.com/PythonSanSebastian/numpy_euroscipy2015
 .. _`NumPy`: http://www.numpy.org/
 .. _`SciPy 2013 Tutorial`: https://github.com/esc/scipy2013-tutorial-numpy-ipython
-.. _`installation instructions`: https://adgdt.github.io/2017-10-25-ift/#setup
+.. _`installation instructions`: https://scw-ss.github.io/2018-12-05-cfm/#setup
 
 
