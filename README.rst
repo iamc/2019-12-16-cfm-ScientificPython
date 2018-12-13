@@ -47,7 +47,7 @@ International License`_.
 .. _`workshop webpage`: https://scw-ss.github.io/2018-12-05-cfm
 .. _`Creative Commons Attribution-ShareAlike 4.0 International License`: http://creativecommons.org/licenses/by-sa/4.0
 .. _`SciPy`: http://www.scipy.org
-.. _`Anaconda`: https://www.continuum.io/downloads
+.. _`Anaconda`: https://www.anaconda.com/download
 .. _`Matplotlib`: http://matplotlib.org/
 .. _`SciPy library`: http://www.scipy.org/scipylib/index.html
 .. _`Jupyter notebooks`: https://jupyter.org
