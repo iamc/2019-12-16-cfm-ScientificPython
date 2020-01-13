@@ -18,78 +18,78 @@ endobj
 4 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://scw-ss.github.io/2018-12-05-cfm)
->> /Border [ 0 0 0 ] /Rect [ 253.2223 683.0236 339.3723 695.0236 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (http://iamc.eu/2019-12-16-cfm)
+>> /Border [ 0 0 0 ] /Rect [ 365.3001 683.0236 452.0409 695.0236 ] /Subtype /Link /Type /Annot
 >>
 endobj
 5 0 obj
 <<
 /A <<
 /S /URI /Type /Action /URI (mailto:inigo.aldazabalm@ehu.eus)
->> /Border [ 0 0 0 ] /Rect [ 263.5123 653.0236 384.2723 665.0236 ] /Subtype /Link /Type /Annot
+>> /Border [ 0 0 0 ] /Rect [ 263.5123 641.0236 384.2723 653.0236 ] /Subtype /Link /Type /Annot
 >>
 endobj
 6 0 obj
 <<
 /A <<
 /S /URI /Type /Action /URI (http://www.scipy.org)
->> /Border [ 0 0 0 ] /Rect [ 373.3929 599.0236 398.9529 611.0236 ] /Subtype /Link /Type /Annot
+>> /Border [ 0 0 0 ] /Rect [ 373.3929 587.0236 398.9529 599.0236 ] /Subtype /Link /Type /Annot
 >>
 endobj
 7 0 obj
 <<
 /A <<
 /S /URI /Type /Action /URI (http://www.scipy.org)
->> /Border [ 0 0 0 ] /Rect [ 250.7629 578.0236 276.3229 590.0236 ] /Subtype /Link /Type /Annot
+>> /Border [ 0 0 0 ] /Rect [ 250.7629 566.0236 276.3229 578.0236 ] /Subtype /Link /Type /Annot
 >>
 endobj
 8 0 obj
 <<
 /A <<
 /S /URI /Type /Action /URI (http://www.numpy.org/)
->> /Border [ 0 0 0 ] /Rect [ 166.2929 560.0236 199.0729 572.0236 ] /Subtype /Link /Type /Annot
+>> /Border [ 0 0 0 ] /Rect [ 166.2929 548.0236 199.0729 560.0236 ] /Subtype /Link /Type /Annot
 >>
 endobj
 9 0 obj
 <<
 /A <<
 /S /URI /Type /Action /URI (https://github.com/esc/scipy2013-tutorial-numpy-ipython)
->> /Border [ 0 0 0 ] /Rect [ 328.8329 560.0236 415.5329 572.0236 ] /Subtype /Link /Type /Annot
+>> /Border [ 0 0 0 ] /Rect [ 328.8329 548.0236 415.5329 560.0236 ] /Subtype /Link /Type /Annot
 >>
 endobj
 10 0 obj
 <<
 /A <<
 /S /URI /Type /Action /URI (http://matplotlib.org/)
->> /Border [ 0 0 0 ] /Rect [ 247.4229 542.0236 290.2129 554.0236 ] /Subtype /Link /Type /Annot
+>> /Border [ 0 0 0 ] /Rect [ 247.4229 530.0236 290.2129 542.0236 ] /Subtype /Link /Type /Annot
 >>
 endobj
 11 0 obj
 <<
 /A <<
 /S /URI /Type /Action /URI (http://www.scipy.org)
->> /Border [ 0 0 0 ] /Rect [ 299.1429 524.0236 324.7029 536.0236 ] /Subtype /Link /Type /Annot
+>> /Border [ 0 0 0 ] /Rect [ 299.1429 512.0236 324.7029 524.0236 ] /Subtype /Link /Type /Annot
 >>
 endobj
 12 0 obj
 <<
 /A <<
 /S /URI /Type /Action /URI (https://www.anaconda.com/download)
->> /Border [ 0 0 0 ] /Rect [ 111.6129 497.0236 156.7543 509.0236 ] /Subtype /Link /Type /Annot
+>> /Border [ 0 0 0 ] /Rect [ 111.7243 485.0236 156.7543 497.0236 ] /Subtype /Link /Type /Annot
 >>
 endobj
 13 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://scw-ss.github.io/2018-12-05-cfm/#setup)
->> /Border [ 0 0 0 ] /Rect [ 81.03291 485.0236 181.6229 497.0236 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (http://iamc.eu/2019-12-16-cfm/#setup)
+>> /Border [ 0 0 0 ] /Rect [ 81.03291 473.0236 181.6229 485.0236 ] /Subtype /Link /Type /Annot
 >>
 endobj
 14 0 obj
 <<
 /A <<
 /S /URI /Type /Action /URI (http://creativecommons.org/licenses/by-sa/4.0)
->> /Border [ 0 0 0 ] /Rect [ 194.4029 356.0236 491.1829 368.0236 ] /Subtype /Link /Type /Annot
+>> /Border [ 0 0 0 ] /Rect [ 194.4029 344.0236 491.1829 356.0236 ] /Subtype /Link /Type /Annot
 >>
 endobj
 15 0 obj
@@ -110,7 +110,7 @@ endobj
 endobj
 17 0 obj
 <<
-/Author () /CreationDate (D:20181213120415-01'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20181213120415-01'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+/Author () /CreationDate (D:20200113154547-01'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20200113154547-01'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
   /Subject (\(unspecified\)) /Title (Software Carpentry Workshop - Materials Physics Center \(CFM\)) /Trapped /False
 >>
 endobj
@@ -121,12 +121,12 @@ endobj
 endobj
 19 0 obj
 <<
-/Dest [ 15 0 R /XYZ 62.69291 638.0236 0 ] /Next 20 0 R /Parent 18 0 R /Title (Abstract)
+/Dest [ 15 0 R /XYZ 62.69291 626.0236 0 ] /Next 20 0 R /Parent 18 0 R /Title (Abstract)
 >>
 endobj
 20 0 obj
 <<
-/Dest [ 15 0 R /XYZ 62.69291 395.0236 0 ] /Parent 18 0 R /Prev 19 0 R /Title (License)
+/Dest [ 15 0 R /XYZ 62.69291 383.0236 0 ] /Parent 18 0 R /Prev 19 0 R /Title (License)
 >>
 endobj
 21 0 obj
@@ -136,7 +136,7 @@ endobj
 endobj
 22 0 obj
 <<
-/Length 4891
+/Length 4937
 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -147,11 +147,11 @@ BT 1 0 0 1 0 28 Tm 38.79488 0 Td 24 TL /F2 20 Tf 0 0 0 rg (Software Carpentry Wo
 Q
 Q
 q
-1 0 0 1 62.69291 680.0236 cm
+1 0 0 1 62.69291 668.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
-1 0 0 1 6 15 cm
+1 0 0 1 6 27 cm
 q
 BT 1 0 0 1 0 2 Tm 9.68937 0 Td 12 TL /F2 10 Tf 0 0 0 rg (Date & place:) Tj T* -9.68937 0 Td ET
 Q
@@ -159,14 +159,14 @@ Q
 q
 1 0 0 1 91.03937 3 cm
 q
-BT 1 0 0 1 0 14 Tm .644199 Tw 12 TL /F1 10 Tf 0 0 0 rg (Software Carpentry Workshop - Materials Phyiscs Center \(CFM\), 5, 10, 13, 18 and) Tj T* 0 Tw (19th December 2018 \() Tj 0 0 .501961 rg (workshop webpage) Tj 0 0 0 rg (\). Wednesday 19th session.) Tj T* ET
+BT 1 0 0 1 0 26 Tm 1.294488 Tw 12 TL /F1 10 Tf 0 0 0 rg (Software Carpentry Workshop - Materials Phyiscs Center \(CFM\), December 16th,) Tj T* 0 Tw .590866 Tw (2019, and January 14, 15, 16 and 23rd, 2020 \() Tj 0 0 .501961 rg (workshop webpage) Tj 0 0 0 rg (\). Thursday 23rd) Tj T* 0 Tw (session.) Tj T* ET
 Q
 Q
 q
 Q
 Q
 q
-1 0 0 1 62.69291 665.0236 cm
+1 0 0 1 62.69291 653.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -187,7 +187,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 650.0236 cm
+1 0 0 1 62.69291 638.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -207,25 +207,25 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 617.0236 cm
+1 0 0 1 62.69291 605.0236 cm
 q
 BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Abstract) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 599.0236 cm
+1 0 0 1 62.69291 587.0236 cm
 q
 BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Introductory lesson for Scientific Computing with Python based on the ) Tj 0 0 .501961 rg (SciPy) Tj 0 0 0 rg ( stack having four parts:) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 593.0236 cm
-Q
-q
-1 0 0 1 62.69291 593.0236 cm
+1 0 0 1 62.69291 581.0236 cm
 Q
 q
 1 0 0 1 62.69291 581.0236 cm
+Q
+q
+1 0 0 1 62.69291 569.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -245,10 +245,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 575.0236 cm
+1 0 0 1 62.69291 563.0236 cm
 Q
 q
-1 0 0 1 62.69291 563.0236 cm
+1 0 0 1 62.69291 551.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -268,10 +268,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 557.0236 cm
+1 0 0 1 62.69291 545.0236 cm
 Q
 q
-1 0 0 1 62.69291 545.0236 cm
+1 0 0 1 62.69291 533.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -291,10 +291,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 539.0236 cm
+1 0 0 1 62.69291 527.0236 cm
 Q
 q
-1 0 0 1 62.69291 527.0236 cm
+1 0 0 1 62.69291 515.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -314,40 +314,40 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 527.0236 cm
+1 0 0 1 62.69291 515.0236 cm
 Q
 q
-1 0 0 1 62.69291 485.0236 cm
+1 0 0 1 62.69291 473.0236 cm
 q
 BT 1 0 0 1 0 26 Tm 1.716235 Tw 12 TL /F1 10 Tf 0 0 0 rg (Participants are encouraged to follow the hands-on parts in their laptops. For this is enough with just) Tj T* 0 Tw .055697 Tw (having the ) Tj 0 0 .501961 rg (Anaconda) Tj 0 0 0 rg ( Python scientific stack installed. Installation is straightforward and you can follow eg.) Tj T* 0 Tw (this ) Tj 0 0 .501961 rg (installation instructions) Tj 0 0 0 rg (. Please use the Python 3 version for your platform.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 455.0236 cm
+1 0 0 1 62.69291 443.0236 cm
 q
 BT 1 0 0 1 0 14 Tm 4.46816 Tw 12 TL /F2 10 Tf 0 0 0 rg (Targeted audience) Tj /F1 10 Tf (: scientific and technical people interested in computing, data analysis, task) Tj T* 0 Tw (automation,...) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 437.0236 cm
+1 0 0 1 62.69291 425.0236 cm
 q
 BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Content level) Tj /F1 10 Tf (: beginner) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 407.0236 cm
+1 0 0 1 62.69291 395.0236 cm
 q
 BT 1 0 0 1 0 14 Tm .932706 Tw 12 TL /F2 10 Tf 0 0 0 rg (Audience prerequisites) Tj /F1 10 Tf (: basic general programming knowledge. Python knowledge is desirable for the) Tj T* 0 Tw (evening sessions, but not essential if you have experience with any other programming languaje.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 374.0236 cm
+1 0 0 1 62.69291 362.0236 cm
 q
 BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (License) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 356.0236 cm
+1 0 0 1 62.69291 344.0236 cm
 q
 BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (This work is licensed under a ) Tj 0 0 .501961 rg (Creative Commons Attribution-ShareAlike 4.0 International License) Tj 0 0 0 rg (.) Tj T* ET
 Q
@@ -372,30 +372,30 @@ xref
 0000000114 00000 n 
 0000000221 00000 n 
 0000000333 00000 n 
-0000000524 00000 n 
-0000000707 00000 n 
-0000000879 00000 n 
-0000001051 00000 n 
-0000001224 00000 n 
-0000001431 00000 n 
-0000001606 00000 n 
-0000001779 00000 n 
-0000001965 00000 n 
-0000002164 00000 n 
-0000002362 00000 n 
-0000002654 00000 n 
-0000002760 00000 n 
-0000003080 00000 n 
-0000003154 00000 n 
-0000003264 00000 n 
-0000003373 00000 n 
-0000003434 00000 n 
-0000008377 00000 n 
-0000008418 00000 n 
+0000000514 00000 n 
+0000000697 00000 n 
+0000000869 00000 n 
+0000001041 00000 n 
+0000001214 00000 n 
+0000001421 00000 n 
+0000001596 00000 n 
+0000001769 00000 n 
+0000001955 00000 n 
+0000002144 00000 n 
+0000002342 00000 n 
+0000002634 00000 n 
+0000002740 00000 n 
+0000003060 00000 n 
+0000003134 00000 n 
+0000003244 00000 n 
+0000003353 00000 n 
+0000003414 00000 n 
+0000008403 00000 n 
+0000008444 00000 n 
 trailer
 <<
 /ID 
-[<62c01752c83b39d613fe452f639cb9d3><62c01752c83b39d613fe452f639cb9d3>]
+[<646dbce11d48f99d5f3f7435bd67ca8e><646dbce11d48f99d5f3f7435bd67ca8e>]
 % ReportLab generated PDF document -- digest (http://www.reportlab.com)
 
 /Info 17 0 R
@@ -403,5 +403,5 @@ trailer
 /Size 25
 >>
 startxref
-8452
+8478
 %%EOF
