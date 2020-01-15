@@ -19,7 +19,7 @@ endobj
 <<
 /A <<
 /S /URI /Type /Action /URI (http://iamc.eu/2019-12-16-cfm)
->> /Border [ 0 0 0 ] /Rect [ 365.3001 683.0236 452.0409 695.0236 ] /Subtype /Link /Type /Annot
+>> /Border [ 0 0 0 ] /Rect [ 359.9823 683.0236 452.4993 695.0236 ] /Subtype /Link /Type /Annot
 >>
 endobj
 5 0 obj
@@ -75,7 +75,7 @@ endobj
 <<
 /A <<
 /S /URI /Type /Action /URI (https://www.anaconda.com/download)
->> /Border [ 0 0 0 ] /Rect [ 111.7243 485.0236 156.7543 497.0236 ] /Subtype /Link /Type /Annot
+>> /Border [ 0 0 0 ] /Rect [ 111.6129 485.0236 156.7543 497.0236 ] /Subtype /Link /Type /Annot
 >>
 endobj
 13 0 obj
@@ -110,7 +110,7 @@ endobj
 endobj
 17 0 obj
 <<
-/Author () /CreationDate (D:20200113154547-01'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20200113154547-01'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+/Author () /CreationDate (D:20200115202525-01'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20200115202525-01'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
   /Subject (\(unspecified\)) /Title (Software Carpentry Workshop - Materials Physics Center \(CFM\)) /Trapped /False
 >>
 endobj
@@ -159,7 +159,7 @@ Q
 q
 1 0 0 1 91.03937 3 cm
 q
-BT 1 0 0 1 0 26 Tm 1.294488 Tw 12 TL /F1 10 Tf 0 0 0 rg (Software Carpentry Workshop - Materials Phyiscs Center \(CFM\), December 16th,) Tj T* 0 Tw .590866 Tw (2019, and January 14, 15, 16 and 23rd, 2020 \() Tj 0 0 .501961 rg (workshop webpage) Tj 0 0 0 rg (\). Thursday 23rd) Tj T* 0 Tw (session.) Tj T* ET
+BT 1 0 0 1 0 26 Tm 1.294488 Tw 12 TL /F1 10 Tf 0 0 0 rg (Software Carpentry Workshop - Materials Phyiscs Center \(CFM\), December 16th,) Tj T* 0 Tw .636699 Tw (2019, and January 14, 15, 16 and 23rd, 2020 \() Tj 0 0 .501961 rg (workshop webpage) Tj 0 0 0 rg (\). Thursday 16th) Tj T* 0 Tw (session.) Tj T* ET
 Q
 Q
 q
@@ -395,7 +395,7 @@ xref
 trailer
 <<
 /ID 
-[<646dbce11d48f99d5f3f7435bd67ca8e><646dbce11d48f99d5f3f7435bd67ca8e>]
+[<66be2ee3c4a95c8bf7bcc24762ca027c><66be2ee3c4a95c8bf7bcc24762ca027c>]
 % ReportLab generated PDF document -- digest (http://www.reportlab.com)
 
 /Info 17 0 R

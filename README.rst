@@ -3,7 +3,7 @@ Software Carpentry Workshop - Materials Physics Center (CFM)
 ************************************************************
 
 :Date & place: Software Carpentry Workshop - Materials Phyiscs Center (CFM),
-               December 16th, 2019, and January 14, 15, 16 and 23rd, 2020 (`workshop webpage`_). Thursday 23rd  session.
+               December 16th, 2019, and January 14, 15, 16 and 23rd, 2020 (`workshop webpage`_). Thursday 16th  session.
 :Content: Introduction to Scientific Python
 :Instructors: Iñigo Aldazabal Mensa <inigo.aldazabalm@ehu.eus>
               
